@@ -41,4 +41,4 @@ So. Is there any password-alternative out there to be able to have access to an 
 
 Do **you** know of any alternative solutions? Please save us from this password struggle that has overrun our digital experience today! :sob:
 
-Join our discussion on [DEV](https://dev.to/cristinaruth/the-password-struggle-4g1i).
+Join us on [DEV](https://dev.to/cristinaruth/the-password-struggle-4g1i) to discuss further.
