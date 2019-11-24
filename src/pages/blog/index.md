@@ -2,7 +2,7 @@
 title: Blog
 menus:
   main:
-    identifier: '1'
+    identifier: ''
     title: Blog
     weight: 2
 template: blog
