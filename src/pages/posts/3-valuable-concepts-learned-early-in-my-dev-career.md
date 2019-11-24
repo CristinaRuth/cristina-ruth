@@ -1,6 +1,6 @@
 ---
 title: 3 Valuable Concepts Learned Early in My Dev Career
-date: 2019-11-24T22:11:57.088Z
+date: 2019-10-12T21:11:57.088Z
 excerpt: >-
   If you're starting out, learn these 3 things to give you a jump start in your
   dev career.
