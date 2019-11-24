@@ -4,7 +4,7 @@ date: 2019-11-24T22:03:09.407Z
 excerpt: Team Lead vs Tech Lead? How do you define these roles?
 menus:
   main:
-    identifier: '1'
+    identifier: ''
     title: Discuss
 template: post
 ---
