@@ -4,8 +4,9 @@ title: >-
   Bang
 date: 2019-11-24T22:58:59.597Z
 excerpt: >-
-  Upgrading legacy systems while keeping them stable is tough. Learn the
-  strategies I use to get this done safely and surely.
+  Upgrading legacy systems while keeping them stable is tough. Learn the common
+  things to watch out for and the corresponding strategies I use to get these
+  upgrades done safely and surely.
 template: post
 ---
 Over the years, old code gets harder to maintain, and we start missing out on new capabilities and features from new technology. But, resources are usually limited, and we don't usually get around to doing these upgrades. How do we convert an app, like WebForms, to an MVC app on a limited budget and shippable increments without major issues?
