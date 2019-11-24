@@ -1,6 +1,6 @@
 ---
 title: The Password Struggle
-date: 2019-11-24T22:17:10.545Z
+date: 2019-11-21T22:17:10.545Z
 excerpt: "Do you know of any password alternatives? Someone save us, please! \U0001F62D"
 template: post
 ---
