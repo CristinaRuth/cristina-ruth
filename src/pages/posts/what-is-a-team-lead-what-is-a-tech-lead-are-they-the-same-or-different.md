@@ -5,7 +5,7 @@ excerpt: Team Lead vs Tech Lead? How do you define these roles?
 menus:
   main:
     identifier: ''
-    title: Blog
+    title: Discuss
 template: post
 ---
 To you, what defines a Team Lead? A Tech Lead? If different, is there a term that describes both roles combined?
