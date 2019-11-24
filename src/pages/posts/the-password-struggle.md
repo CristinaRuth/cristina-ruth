@@ -4,7 +4,7 @@ date: 2019-11-24T22:17:10.545Z
 excerpt: "Do you know of any password alternatives? Someone save us, please! \U0001F62D"
 menus:
   main:
-    title: Discuss
+    title: ''
 template: post
 ---
 Today's digital world has accounts everywhere. That means logins and passwords.
