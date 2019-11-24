@@ -12,4 +12,4 @@ To you, what defines a Team Lead? A Tech Lead? If different, is there a term tha
 
 I always get confused which is which. 🤔
 
-Head over to [DEV](https://dev.to/cristinaruth/discuss-what-is-a-team-lead-what-is-a-tech-lead-are-they-the-same-or-different-139i) to discuss further.
+Join us on [DEV](https://dev.to/cristinaruth/discuss-what-is-a-team-lead-what-is-a-tech-lead-are-they-the-same-or-different-139i) to discuss further.
