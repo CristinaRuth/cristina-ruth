@@ -6,7 +6,7 @@ excerpt: >-
   dev career.
 menus:
   main:
-    title: Blog
+    title: ''
 template: post
 ---
 ### 1 - Source Control
