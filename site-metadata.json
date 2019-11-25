@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Fresh Theme",
+  "title": "Cristina Ruth",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
@@ -10,6 +10,8 @@
     "has_nav": true,
     "has_social": true
   },
+  "siteUrl": "https://www.cristinaruth.com",
+  "description": "Musings and thoughts by Cristina Ruth.",
   "footer": {
     "content": "&copy; All rights reserved.",
     "links": [
