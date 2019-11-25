@@ -10,7 +10,7 @@ import GoogleAnalytics from './GoogleAnalytics';
 export default class Body extends React.Component {
 
   render() {
-    const isLive = window.location.host.indexOf("localhost") === -1;
+    const isLive = typeof(window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
     return (
       <React.Fragment>
         <Helmet>
