@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import { Layout } from '../components/index';
-import { getPages, Link, safePrefix } from '../utils';
+import { getPages } from '../utils';
 import { Article } from '../components/Article';
 
 export default class Blog extends React.Component {
