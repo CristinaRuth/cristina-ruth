@@ -4,6 +4,7 @@ date: 2019-10-12T21:11:57.088Z
 excerpt: >-
   If you're starting out, learn these 3 things to give you a jump start in your
   dev career.
+tags: ["career"]
 template: post
 ---
 ### 1 - Source Control

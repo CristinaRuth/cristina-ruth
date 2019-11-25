@@ -1,12 +1,13 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-
 import {Layout} from '../components/index';
 import {htmlToReact, safePrefix} from '../utils';
+import Tags from '../components/Tags';
 
 export default class Post extends React.Component {
     render() {
+      let tags = this.props.pageContext.frontmatter.tags;
         return (
             <Layout {...this.props}>
               <article className="post post-full">
@@ -29,6 +30,7 @@ export default class Post extends React.Component {
                 <footer className="post-meta">
                   <time className="published"
                     dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%A, %B %e, %Y')}</time>
+                    <Tags tags={tags} />
                 </footer>
               </article>
             </Layout>

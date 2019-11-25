@@ -22,7 +22,7 @@ The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domai
 
 1. run the following command to assign this key to `STACKBIT_API_KEY` environment variable:
 
-        export STACKBIT_API_KEY={stackbit_netlify_api_key}
+        export STACKBIT_API_KEY={stackbit_netlify_api_key} (for Windows, use `set`)
 
 1. run the following command to fetch additional site contents from Stackbit if needed:
 
