@@ -317,6 +317,51 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: postsblock
+              - name: toolsblock
+                widget: object
+                label: Tools List
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
+                  - widget: string
+                    name: section_id
+                    label: Element ID
+                    required: false
+                  - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: ToolsBlock
+                  - widget: number
+                    name: num_displayed
+                    label: Number of tools to display
+                    required: true
+                    valueType: int
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: toolsblock
           - widget: object
             name: menus
             label: Home Menus

@@ -468,6 +468,18 @@ models:
         name: num_posts_displayed
         label: Number of posts to display
         required: true
+  toolsblock:
+    type: object
+    label: Tools List
+    extends:
+      - section
+    fields:
+      - name: component
+        default: ToolsBlock
+      - type: number
+        name: num_displayed
+        label: Number of tools to display
+        required: true
   site_menus:
     type: data
     file: menus.json
