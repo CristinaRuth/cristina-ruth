@@ -7,4 +7,6 @@ menus:
 template: contact
 ---
 
-To get in touch, fill the form below. Please expect 2-3 business days to get a reply.
+If you have a question you would like me to answer, I can try to address it in a future blog post. Otherwise, comments are welcome.
+
+Please note that I may not reply to your message, but I do try my best. 🙂
