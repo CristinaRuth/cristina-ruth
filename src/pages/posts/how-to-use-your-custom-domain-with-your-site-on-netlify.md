@@ -41,6 +41,6 @@ You can check this by going to the `SSL/TLS certificate` section. It may take ab
 
 # And You're Done!
 
-Now, you've got a custom domain on your site. Yay!
+Now, you've got your custom domain on your site. Yay!
 
 ![Yay](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
