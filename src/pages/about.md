@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Cristina
 subtitle: ''
 img_path: ''
 menus:
@@ -9,8 +9,10 @@ menus:
 template: page
 ---
 
-**Cristina Ruth** is a Senior Consultant at CUNA Mutual Group in Madison, WI. She started her software development career there as an intern back in 2013.
+**Cristina Ruth** is a Senior Business Systems Consultant and Tech Lead at CUNA Mutual Group in Madison, WI. In this role, she consults with internal business customers to develop internal software solutions from idea to implementation. This typically includes leading and guiding a team of developers to get projects completed to the finish line and establish stability to ensure smooth operations. 
 
-Today, Cristina enjoys mentoring and learning/improving soft skills like communication and leadersihp skills.
+Having started her software development career as an intern at CUNA Mutual Group back in 2013, Cristina has learned a lot since then and as a result, is very invested in mentoring early-career developers, sharing knowledge, and giving back to the tech community.
 
-Cristina juggles a lot of things both at work and outside of work, which requires productivity/organization tools/processes to keep her from going crazy and to stay organized.
+To give back, she leads the [Madison chapter of Dev Together](https://meetup.com/devtogethermad), a community focused on helping early-career devs by pairing them with local mentors at in-person events. She also volunteers at [Microsoft's TEALS](https://www.microsoft.com/en-us/teals) to help bring computer science to local Madison high schools.
+
+With a full-time position, leading Dev Together Madison, helping with TEALS and managing a family of 5 (1 kid + 2 pets), Cristina has a lot on her plate. To keep from going crazy, she utilizes productivity/organization tools/processes which she'll be sharing in her blog posts.
