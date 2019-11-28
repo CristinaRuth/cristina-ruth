@@ -2,6 +2,15 @@
 title: Home
 sections:
   - actions:
+      - label: More About Cristina
+        url: /about
+    component: HeroBlock
+    content: >-
+      Here, you'll find my musings/thoughts about tech, giving back,
+      organization/productivity tips, and random struggles about daily life.
+    title: Welcome!
+    type: heroblock
+  - actions:
       - label: View Blog
         url: blog/index.html
     component: PostsBlock
