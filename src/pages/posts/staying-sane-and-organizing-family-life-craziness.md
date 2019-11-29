@@ -56,4 +56,6 @@ So then, here is how we use it:
 
 We've used this system since late October and it has worked really well! We've got a lot more visibility across me and my spouse on things that need to be done, what craziness is going on that day and/or that week, and who's done which.
 
+![Yay!](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
+
 Would you like to try the same thing to handle *your* family life craziness? [Contact me](/contact) and let's talk!
