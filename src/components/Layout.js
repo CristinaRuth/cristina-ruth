@@ -7,6 +7,7 @@ import Header from './Header';
 import Footer from './Footer';
 import GoogleAnalytics from './GoogleAnalytics';
 import TrackBuyClicks from './TrackBuyClicks';
+import {TrackDonateClicks} from './TrackBuyClicks';
 
 export default class Body extends React.Component {
 
@@ -31,6 +32,7 @@ export default class Body extends React.Component {
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153295015-1" />}
           {isLive && GoogleAnalytics()}
           {isLive && TrackBuyClicks()}
+          {isLive && TrackDonateClicks()}
         </Helmet>
         <div id="page" className={'site style-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
           <Header {...this.props} />
