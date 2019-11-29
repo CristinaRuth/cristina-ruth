@@ -1,7 +1,6 @@
 ---
 title: Staying Sane and Organizing Family Life Craziness
 date: 2019-11-29T03:55:30.608Z
-thumb_img_path: /images/inkedfamily-weekly-spread-template_li.jpg
 excerpt: >-
   Family life gets so busy. In this post, I muse about the problems managing it
   all, and utilizing the bullet journal concept to try and manage the craziness.
