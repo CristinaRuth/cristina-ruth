@@ -60,8 +60,8 @@ We've used this system since late October and it has worked really well! We've g
 
 Would you like to try the same thing to handle *your* family life craziness?
 
-<a href="https://checkout.square.site/buy/MZYSMUURTBJJQVNRL3OHDPX6" class="button">Buy a Personalized Version for $99.99</a>
+<a href="https://checkout.square.site/buy/MZYSMUURTBJJQVNRL3OHDPX6" class="button button-begin-checkout">Buy a Personalized Version for $99.99</a>
 
-<a href="https://checkout.square.site/buy/UXPUWR6RK7VTEVEZNTYKWQFY" class="button">Buy a Blank Version for $24.99</a>
+<a href="https://checkout.square.site/buy/UXPUWR6RK7VTEVEZNTYKWQFY" class="button button-begin-checkout">Buy a Blank Version for $24.99</a>
 
 For any questions, please don't hesitate to <a href="/contact">contact me</a>. 🙂
