@@ -6,7 +6,7 @@ function TrackBuyClicks() {
 
     if (buyButtons === null
         || typeof (buyButtons) === "undefined"
-        || buyButtons.length == 0) return;
+        || buyButtons.length === 0) return;
 
     function sendGaEvent(e) {
         try {
@@ -40,7 +40,7 @@ export function TrackDonateClicks() {
 
     if (buyButtons === null
         || typeof (buyButtons) === "undefined"
-        || buyButtons.length == 0) return;
+        || buyButtons.length === 0) return;
 
     function sendGaEvent(e) {
         try {

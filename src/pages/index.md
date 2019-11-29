@@ -6,9 +6,7 @@ sections:
         url: /about
     component: HeroBlock
     content: >-
-      Here, you'll find my musings/thoughts/tips about tech, giving back,
-      organization/productivity, family life, personal finance and other random
-      things about life.
+      Here, you'll find my thoughts & tips about tech & life -- from career, productivity, family life, personal finance to all other random things about life.
     title: Welcome!
     type: heroblock
   - actions:
