@@ -4,14 +4,12 @@
   "palette": "blue",
   "header": {
     "title": "Cristina Ruth",
-    "tagline": "Senior Software Engineer",
+    "tagline": "Tips on Tech & Life",
     "profile_img": "/images/0-3-.jpg",
     "bg": "light",
     "has_nav": true,
     "has_social": true
   },
-  "siteUrl": "https://www.cristinaruth.com",
-  "description": "Musings and thoughts by Cristina Ruth.",
   "footer": {
     "content": "&copy; All rights reserved.",
     "links": [
