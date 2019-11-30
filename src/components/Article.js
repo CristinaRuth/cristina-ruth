@@ -22,7 +22,10 @@ export class Article extends React.Component {
         </div>
         <footer className="post-meta">
           <time className="published" dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
-          <Tags tags={tags} />
+          <Tags
+            tags={tags}
+            filterPosts={this.props.filterPosts}
+          />
         </footer>
       </div>
     </article>
