@@ -7,7 +7,8 @@ excerpt: >-
 tags: ["tech", "career", "consulting", "soft-skills"]
 template: post
 ---
-## Learning
+
+## 1. Learning
 
 Per Steve Perkins:
 
@@ -15,7 +16,7 @@ Per Steve Perkins:
 
 **CHAT IMAGE HERE**
 
-## Ability to Listen
+## 2. Ability to Listen
 
 Per Bo Monroe:
 
@@ -23,7 +24,7 @@ Per Bo Monroe:
 
 **CHAT IMAGE HERE**
 
-## Expectation Management
+## 3. Expectation Management
 
 So by Expectation Management, I mean that developers should be able to set expectations with customers and teammates, if applicable.
 This means, letting them know what's coming next, what to expect, what are the good things, what are the bad things.
@@ -40,13 +41,13 @@ If I did, I could say that I need more information, and some time to research, a
 
 ** CHAT IMAGE HERE **
 
-## Negotiation
+## 4. Negotiation
 
 Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
 
 ** CHAT IMAGE HERE **
 
-## Explain Technical Concepts
+## 5. Explain Technical Concepts
 
 Having the ability to be able to explain technical concepts to people who don't understand them will set a consultant apart.
 
@@ -56,7 +57,7 @@ Being able to do so will help convince customers of concepts you want them to do
 
 ** CHAT IMAGE HERE**
 
-## Agnosticism
+## 6. Agnosticism
 
 Per Bo Monroe
 
@@ -64,7 +65,7 @@ Per Bo Monroe
 
 ** CHAT IMAGE HERE **
 
-## Organization
+## 7. Organization
 
 Organization skills can help you keep track of all the things that need to be done  TODAY vs LATER.
 
@@ -78,7 +79,7 @@ Being focused would mean efficiency in spending $$$ therefore reducing cost.
 
 ** CHAT IMAGE HERE **
 
-## Realism
+## 8. Realism
 
 Per Bo Monroe
 
@@ -86,7 +87,7 @@ Per Bo Monroe
 
 ** CHAT IMAGE HERE**
 
-## Empathy
+## 9. Empathy
 
 Per Steve Perkins:
 
@@ -94,39 +95,39 @@ Per Steve Perkins:
 
 ** CHAT IMAGE HERE**
 
-## Business Understanding
+## 10. Business Understanding
 
 We develop software for businesses!
 The more we understand that business, their processes, their customers, and their needs, the better the solution we will end up creating for them.
 
 ** CHAT IMAGE HERE **
 
-## Out-of-the-Box Thinking
+## 11. Out-of-the-Box Thinking
 
 Per Bo Monroe:
 > sometimes the inspiration for an innovative approach to a problem comes from a completely different discipline or field
 
 **CHAT IMAGE HERE**
 
-## Documentation
+## 12. Documentation
 Per Bo Monroe:
 >a no-brainer, but often a place where freelancer’s esp cut corners — after all, the client usually doesn’t care (at first!) if the code is well documented and organized
 
 ** CHAT IMAGE HERE **
 
-## Stewardship
+## 13. Stewardship
 
 Per Steve Perkins:
 >Consultants are responsible for spending the client's money wisely. There are lots of ways that can manifest, but it comes down to acting in the best interest of the client at all times - even if your employer wants you to do otherwise. A trust relationship is paramount in consulting, especially in a small town like Madison.
 
-## Flexibility
+## 14. Flexibility
 
 While it's important to negotiate with clients on what's right, it's still important to be flexible if the negotiation doesn't work out.
 Don't get too stuck on your opinions because ultimately, the customer being happy is what matters and if we remain stubborn, then customers will just get frustrated and we will NOT get anything done.
 
 ** CHAT IMAGE HERE **
 
-## Time Management
+## 15. Time Management
 Content here
 
 ## Wait, where are technical skills?
