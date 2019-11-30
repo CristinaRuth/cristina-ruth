@@ -7,4 +7,4 @@ template: post
 ---
 Randomly wrote this comic and wanted to share in case anybody would like it. ☺️
 
-![](/images/img_5168-1-.jpg)
+![The Lost Kitty](/images/img_5168-1-.png "The Lost Kitty Comics")
