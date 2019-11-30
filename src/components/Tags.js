@@ -18,8 +18,9 @@ class Tags extends React.Component {
 }
 
 function Tag(props) {
+    const tagName = props.value;
     return (<React.Fragment>
-        <a href={`/blog?tag=${props.value}`} className="blog-tag">#{props.value}</a>
+        <a href={`/blog?tag=${tagName}`} className="blog-tag">#{tagName}</a>
         {props.currentIndex < (props.totalTags - 1) ? " " : null}
     </React.Fragment>
     );
