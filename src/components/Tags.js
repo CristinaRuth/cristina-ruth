@@ -19,10 +19,6 @@ class Tags extends React.Component {
 }
 
 class Tag extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
     handleClick = () => {
         const tagName = this.props.value;
         this.props.filterPosts(tagName);

@@ -8,6 +8,7 @@ export class Article extends React.Component {
     const post = this.props.post;
     const post_idx = this.props.index;
     const tags = post.frontmatter.tags;
+    const isUseH3ForHeader = this.props.isUseH3ForHeader || false;
     return (<article key={post_idx} className="post">
       <div className="post-inside">
         {_.get(post, 'frontmatter.thumb_img_path') &&
@@ -15,7 +16,12 @@ export class Article extends React.Component {
             <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
           </Link>}
         <header className="post-header">
+          { !isUseH3ForHeader &&
           <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
+          }
+          { isUseH3ForHeader &&
+          <h3 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h3>
+          }
         </header>
         <div className="post-content">
           <p>{_.get(post, 'frontmatter.excerpt')}</p>

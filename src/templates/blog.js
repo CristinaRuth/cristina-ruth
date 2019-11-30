@@ -73,7 +73,7 @@ export default class Blog extends React.Component {
             <React.Fragment>
               <p>Filtering by tag: {this.state.currentFilter}</p>
             <p className="block-cta">
-              <button className="button" role="button" onClick={this.resetFilter}>See All Posts</button>
+              <button className="button" onClick={this.resetFilter}>See All Posts</button>
             </p>
             </React.Fragment>
           }
