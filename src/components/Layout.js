@@ -5,9 +5,7 @@ import _ from 'lodash';
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import GoogleAnalytics from './GoogleAnalytics';
-import TrackBuyClicks from './TrackBuyClicks';
-import {TrackDonateClicks} from './TrackBuyClicks';
+import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks } from './GoogleAnalytics';
 
 export default class Body extends React.Component {
 

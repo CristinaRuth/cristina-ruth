@@ -24,7 +24,15 @@ class Tag extends React.Component {
     }
 
     handleClick = () => {
-        this.props.filterPosts(this.props.value);
+        const tagName = this.props.value;
+        this.props.filterPosts(tagName);
+        try {
+            var gtag = window.gtag;
+            gtag('event', 'blogFilter', {
+                'event_category': 'engagement',
+                'event_label': tagName
+            });
+        } catch (err) { }
     }
     render() {
         const tagName = this.props.value;
