@@ -5,7 +5,6 @@ import { Layout } from '../components/index';
 import { htmlToReact, safePrefix, getPages } from '../utils';
 import Tags from '../components/Tags';
 import { Article } from '../components/Article';
-import { DiscussionEmbed } from 'disqus-react';
 
 export default class Post extends React.Component {
   constructor(props) {
@@ -82,18 +81,6 @@ export default class Post extends React.Component {
   }
 
   render() {
-    const isLive = typeof(window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
-    //const slug = _.get(this.props, 'pageContext.fields.slug');
-    const slug = this.props.pageContext.relativePath;
-    const title = _.get(this.props, 'pageContext.frontmatter.title');
-    const url = _.get(this.props, 'location.href');
-    const disqusConfig = {
-      shortname: 'cristinaruth',
-      config: { 
-        identifier: slug, 
-        url: url ,
-        title },
-    };
     let tags = this.tags;
     let posts = this.posts;
     return (
@@ -137,16 +124,6 @@ export default class Post extends React.Component {
               </div>
             </section>
           </React.Fragment>
-        }
-        {
-          isLive && 
-             <DiscussionEmbed {...disqusConfig} />
-        }
-        {
-          !isLive && 
-            <div>
-              <em>Disqus not loaded on local environments.</em>
-            </div>
         }
       </Layout>
     );
