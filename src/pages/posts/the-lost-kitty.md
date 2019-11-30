@@ -6,6 +6,6 @@ excerpt: 'Randomly wrote this comic and wanted to share in case anybody would li
 tags: ["random", "comics"]
 template: post
 ---
-Randomly wrote this comic and wanted to share in case anybody would like it. ☺️
+Randomly wrote this comic and wanted to share in case anybody would like it. 😄
 
 ![The Lost Kitty](/images/img_5168.png "The Lost Kitty Comics")
