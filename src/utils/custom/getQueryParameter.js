@@ -3,7 +3,7 @@
  * @param {string} name 
  */
 export function getQueryParameterValue(name) {
-    const queryStrings = window.location.search;
+    const queryStrings = typeof(window) !== "undefined" ? window.location.search : null;
 
     if (typeof (queryStrings) === "undefined"
         || queryStrings === null
