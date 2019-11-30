@@ -11,3 +11,15 @@
         color: #33383f;
     }
   }
+
+.post-content  {
+    blockquote {
+        font-size: 1em;
+        margin: 1em;
+        font-style: italic;
+        color: #808080;
+        border: none;
+        border-left: 5px solid #bebebe;
+        padding-left: 1em;
+    }
+}
