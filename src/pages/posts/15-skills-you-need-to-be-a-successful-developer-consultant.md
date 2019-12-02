@@ -46,20 +46,22 @@ Below is a summary of our key points and our chat log behind each one.
 
 ## 3. Expectation Management
 
-So by Expectation Management, I mean that developers should be able to set expectations with customers and teammates, if applicable.
+>**Cristina:** So by Expectation Management, I mean that developers should be able to set expectations with customers and teammates, if applicable.
 This means, letting them know what's coming next, what to expect, what are the good things, what are the bad things.
 
+>**Cristina:** Wrong expectations would result in people getting upset because expectations weren't managed well enough.
 
-Wrong expectations would result in people getting upset because expectations weren't managed well enough.
+>**Cristina:** For example, I am working with a customer and they asked me to develop something.
 
-For example, I am working with a customer and they asked me to develop something.
+>**Cristina:** If I didn't manage expectations well, I would say I'll get this done within a week.
 
+>**Cristina:** If I did, I could say that I need more information, and some time to research, and I don't know the exact timeline yet.
 
-If I didn't manage expectations well, I would say I'll get this done within a week.
+>**Steve:** I've found this to be crucial for building trust with the client
 
-If I did, I could say that I need more information, and some time to research, and I don't know the exact timeline yet.
+>**Bo:** Managing client expectations is hugely important, and not always easy.
 
-** CHAT IMAGE HERE **
+>**Bo:** so — yeah, good one.
 
 ## 4. Negotiation
 
