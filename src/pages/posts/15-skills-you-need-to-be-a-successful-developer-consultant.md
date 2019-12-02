@@ -10,7 +10,7 @@ template: post
 
 As a developer consultant, you generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
 
-It's not always easy, and I was curious what key skills you need to have to be a successful one. So I chatted with 2 other senior devs, Steve and Bo, and we discussed what we think these key skills are.
+It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with 2 other senior devs, Steve Perkins and Bo Monroe, and we discussed what we think these key skills are.
 
 Below is a summary of our key points and our chat log behind each one.
 
@@ -32,11 +32,17 @@ Below is a summary of our key points and our chat log behind each one.
 
 ## 2. Ability to Listen
 
-Per Bo Monroe:
+>**Bo:** You have to be able to listen very carefully hear to what your client is really asking for versus what he/she may be asking for at face value. "Listening" encompasses asking good questions.
 
-> You have to be able to listen very carefully hear to what your client is really asking for versus what he/she may be asking for at face value. “Listening” encompasses asking good questions
+>**Cristina:** Oh, yeah, reading between the lines!
 
-**CHAT IMAGE HERE**
+>**Steve:** That's a good point. Clients usually assume you know all about their business and general things about their problem. Sometimes getting results means putting on the deerstalker hat.
+
+>**Bo:** Example: we've learned the hard way that clients don't always really know what platform (!) they should really be targeting. We've built web apps that the client later decided should be mobile, and vice versa. More careful inquiry, poking and prodding at the early stages, versus, simply taking the ask at face value would have saved both of us time & $.
+
+>**Cristina:** And also, the client needs to feel that they're actually heard right?
+
+>**Cristina:** It's a careful line to listen between the lines and making the customer not feel like they're heard and just sensing arrogance from the consultant.
 
 ## 3. Expectation Management
 
