@@ -8,13 +8,27 @@ tags: ["tech", "career", "consulting", "soft-skills"]
 template: post
 ---
 
+As a developer consultant, you generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
+
+It's not always easy, and I was curious what key skills you need to have to be a successful one. So I chatted with 2 other senior devs, Steve and Bo, and we discussed what we think these key skills are.
+
+Below is a summary of our key points and our chat log behind each one.
+
 ## 1. Learning
 
-Per Steve Perkins:
+>**Steve:** An employee is expected to have some ramp-up time to absorb the stack, the company, the culture, etc, but a consultant is expected to be productive as quickly as possible. That means the entire engagement depends on the consultant learning as much as possible as fast as possible -- understanding the client's business, their needs, their problems, how to get results from other people in the company, who to talk to for what, etc.
 
-> An employee is expected to have some ramp-up time to absorb the stack, the company, the culture, etc, but a consultant is expected to be productive as quickly as possible. That means the entire engagement depends on the consultant learning as much as possible as fast as possible - understanding the client's business, their needs, their problems, how to get results from other people in the company, who to talk to for what, etc.
+>**Cristina:** Ah so can this also mean **adaptability**?
 
-**CHAT IMAGE HERE**
+>**Steve:** I think there's a lot of overlap there
+
+>**Cristina:** Yeah, I think a positive attitude is also key here
+
+>**Cristina:** There's a lot of things to tackle
+
+>**Cristina:** Having an "I can do it" attitude will keep you resilient in all the things that need to be done.
+
+>**Steve:** Definitely. It's also a great way to build exposure to a wide breadth of things. The "sure, I'll take that on" attitude keeps you relevant as technology and the business keep moving forward.
 
 ## 2. Ability to Listen
 
@@ -132,3 +146,5 @@ Content here
 
 ## Wait, where are technical skills?
 ** CHAT IMAGE HERE**
+
+![Where are the technical skills?](/images/15-successful-consultant-skills/Where are the Technical Skills.png)
