@@ -10,7 +10,7 @@ template: post
 
 As a developer consultant, you generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
 
-It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with 2 other senior devs, Steve Perkins and Bo Monroe, and we discussed what we think these key skills are.
+It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with a couple of other devs and we discussed what we think these key skills are.
 
 Below is a summary of our key points and our chat log behind each one.
 
@@ -65,94 +65,212 @@ This means, letting them know what's coming next, what to expect, what are the g
 
 ## 4. Negotiation
 
-Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
+>**Cristina:**Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
 
-** CHAT IMAGE HERE **
+>**Bo:** good one also
+
+>**Steve:** This is a good one but also difficult to master. I have not :disappointed: but my go-to tactic is to find a win-win-win by understanding what's driving the client.
+
+>**Cristina:** I don't think anybody would ever master this. It's so hard!
+
+>**Kendell:** I've found while consulting for Horticulture, before switching to tech that self worth is a big part of negotiation. That way you don't feel guilty asking for a deal that respects your time & financial expectations.
+
+>**Steve:** Somewhere I read that negotiation should always be approached from a position of power - even if the only "power" is that you can walk away.
+
+>**Cristina:** Hmm.
+
+>**Cristina:** Doesn't sound quite right?
+
+>**Cristina:** In a consultant role, you don't have that position of power
+
+>**Steve:** I think it depends on the individual. I was sent to a client recently and found the manager to be an absolutely terrible person, and it was very bad for their dev team. I informed my boss I wouldn't be returning and felt the moral situation strong enough to say my employer could either keep me and not send me back or lose me. A couple of weeks later the manager was let go.
+
+>**Cristina:** Wow
+
+>**Cristina:** I'm glad to hear you have your employer support on this one
+
+>**Steve:** Everything's shades of intensity, but if the worst case happens, there's always another job
+
+>**Cristina:** I think that's easier for people with years of experience on their belt
+
+>**Cristina:** It's hard for someone who's just starting out. their bargaining power is pretty low
+
+>**Cristina:** I think there's a bell curve. Having no experience definitely lessens that power. 3-6 years of experience is where the power maximizes because that's where the highest number of positions are. 7+ reduces in power again because the number of options becomes more limited.
+
+>**Cristina:** Wait. interesting. Why do you think 7+ reduces the power?
+
+>**Steve:** But in the end I see it as being about self-respect. Gotta eat Ramen for a few months to get out of a toxic job? Do it.
+
+>**Cristina:** Harder for people wtih families though. Especially if you don't have the backup savings to not really care about keeping your job
+
+>**Cristina:** Still curious why would 7 years of experience reduce the number of options
+
+>**Steve:** IMO it's a function of specialty and salary. 7+ years usually means you're in a niche or deep in a specific industry or set of technologies. Shifting to a job in a different area would require taking a pay cut because you're basically the equivalent of someone with 2-3 years of experience in that area. Not many people are willing to take that drastic of a measure (though we have seen several recently at my company).
+
+>**Cristina:** Oh, good point.  didn't realize that.
+
+>**Steve:** Family/savings as a limiter is definitely true, but there are always other jobs. TekSystems will take anyone who hasn't been a zombie for more than four or five months.
+
+>**Cristina:** True, but the quality of the position would be questionable right?
+
+>**Steve:** Oh, undoubtedly, but if it's just a temp position while searching for a "real" job, it's a way to pay the bills/support the family until something better is available
+
+>**Cristina:** True enough, good point
 
 ## 5. Explain Technical Concepts
 
-Having the ability to be able to explain technical concepts to people who don't understand them will set a consultant apart.
+>**Cristina:** Having the ability to be able to explain technical concepts to people who don't understand them will set a consultant apart.
 
-Think explaining CORS to a customer, and being able to explain it more with relatable common objects where non-technical people can relate. Or explaining technical debt.
-
+>**Cristina:** Think explaining CORS to a customer, and being able to explain it more with relatable common objects where non-technical people can relate. Or explaining technical debt.
 Being able to do so will help convince customers of concepts you want them to do.
+🙂
 
-** CHAT IMAGE HERE**
+>**Cristina:** We see this often as many of our clients have a vague idea for their business but know nothing about tech, electronics, materials, or design. They get frustrated if we can't explain why building their thing has a line item for user account management or whatever.
+
+>**Bo:** Yep, doing so in a way that client doesn’t feel stupid . I have a hard time keeping up with concepts and esp their acronyms in parallel techs all the time. And things change so fast..
+
+>**Cristina:** Yeah, very key! If you explain it in a condescending way, then you're destroying that client relationship trust
+
+>**Steve:** Ooh, I'm going to run with that one
 
 ## 6. Agnosticism
 
-Per Bo Monroe
+>**Bo:** It’s easy to get married to a favorite tech or toolchain, but it may not always be the best fit for your client. One size doesn’t always fit all..
 
-> It’s easy to get married to a favorite tech or toolchain, but it may not always be the best fit for your client. One size doesn’t always fit all..
+>**Cristina:** OOOOH!!
 
-** CHAT IMAGE HERE **
+>**Cristina:** I love this one
+
+>**Cristina:** Choose the tech that's best for the business/client/users rather than your favorite ones.
+
+>**Steve:** Nice one! Some clients already have their stack embedded in stone, and being unwilling to conform can lose the business or make the project a lot harder.
 
 ## 7. Organization
 
-Organization skills can help you keep track of all the things that need to be done  TODAY vs LATER.
+>**Cristina:** Organization skills can help you keep track of all the things that need to be done  TODAY vs LATER.
 
-It can help you keep notes of what was discussed with clients, past decisions and paths forward.
+>**Cristina:** It can help you keep notes of what was discussed with clients, past decisions and paths forward.
 
+>**Cristina:** Knowing what can be done TODAY vs LATER will also help keep you focused and know when to set expectations and communicate with your client;
 
-Knowing what can be done TODAY vs LATER will also help keep you focused and know when to set expectations and communicate with your client;
+>**Cristina:** Being focused would mean efficiency in spending $$$ therefore reducing cost.
 
+>**Bo:** +1
 
-Being focused would mean efficiency in spending $$$ therefore reducing cost.
-
-** CHAT IMAGE HERE **
+>**Steve:** Nice. It also contributes to building an organized project - setting appropriate priorities (e.g. critical path items) and focusing on what the client requires sooner rather than later.
 
 ## 8. Realism
 
-Per Bo Monroe
+>**Bo:** This maybe overlaps with several of the other ideas, inc. Expectation Management — but this also might be one of the areas I’m personally worst at. For instance, building out realistic timelines — I find I’m almost always way too optimistic, even after doing this kind of thing for a long time…
 
->This maybe overlaps with several of the other ideas, inc. Expectation Management — but this also might be one of the areas I’m personally worst at. For instance, building out realistic timelines — I find I’m almost always way too optimistic, even after doing this kind of thing for a long time…
+>**Cristina:** Hmmm Yeah, it's related but different also. I think we all want to be optimistic but reality doesn't quite let us achieve that desired timeline
 
-** CHAT IMAGE HERE**
+>**Cristina:** Communicating the reality also to clients can be tough
+
+>**Bo:** yep & yep
+
+>**Steve:** re estimating, I triple my worst-case estimate and they're dead-on. Not joking - at the end the estimate is always within a relative handful of hours of the actual work.
+
+>**Cristina:** Estimating is hard. It also depends on how well you know the system if the system exists already.
+
+>**Cristina:** If it's a new system, then there's even more unknowns in terms of integrations with new/existing  technologies.
+
+>**Steve:** It's definitely more art than science!
 
 ## 9. Empathy
 
-Per Steve Perkins:
+>**Steve:** Really just a facet of client relations - understanding the client's motivations, situation, desires, limitations, etc from their perspective provides not only an alignment of purpose but also builds trust
 
-> Really just a facet of client relations - understanding the client's motivations, situation, desires, limitations, etc from their perspective provides not only an alignment of purpose but also builds trust
+>**Cristina:** oh yeah. And in larger projects, if you're a lead of other devs, empathy also plays a role in your team being efficient because your team's morale would be higher.
 
-** CHAT IMAGE HERE**
+>**Bo:** I think this also goes for your clients’ users too — kind of an extension of what I was trying to say about Listening
+
+>**Cristina:** Very nice point about the users. Too often, we end up forgetting about the end users
+
+>**Steve:** Agreed, part of satisfying the client is making them look good to their clients
+
+>**Steve:** Feed the Elephant theory extended a level
+
+
 
 ## 10. Business Understanding
 
-We develop software for businesses!
-The more we understand that business, their processes, their customers, and their needs, the better the solution we will end up creating for them.
+>**Cristina:** We develop software for businesses!
 
-** CHAT IMAGE HERE **
+>**Cristina:** The more we understand that business, their processes, their customers, and their needs, the better the solution we will end up creating for them.
+
+>**Steve:** This one is high on my list. There are lots of projects that are just clean-up jobs because someone wanted to try some new technology or do something they hadn't done before. At the end of the day devs are responsible for making money for the business, not satisfying an itch.
+
+>**Cristina:** Too many a times I've seen devs develop solutions because it's a shiny new tech. The business $$$ should be the end goal, not to play with new tech.
+
+>**Cristina:** Can always play with new tech as part of a hackathon or something.
+
+>**Steve:** Or just because it's a Saturday! I ported my ping-pong scoring system to a Pi 1 the other day because my laptop died. Learned about changing expectations (the Pi 1 was amazing in its day, but no longer "fast")!
 
 ## 11. Out-of-the-Box Thinking
 
-Per Bo Monroe:
-> sometimes the inspiration for an innovative approach to a problem comes from a completely different discipline or field
+>**Bo:** sometimes the inspiration for an innovative approach to a problem comes from a completely different discipline or field
 
-**CHAT IMAGE HERE**
+>**Cristina:** Good one! It's so easy to get into this. This is why I often seek out non-team devs on opinions because it's so easy to get too in the box.
 
 ## 12. Documentation
-Per Bo Monroe:
->a no-brainer, but often a place where freelancer’s esp cut corners — after all, the client usually doesn’t care (at first!) if the code is well documented and organized
 
-** CHAT IMAGE HERE **
+>**Bo:** a no-brainer, but often a place where freelancer’s esp cut corners — after all, the client usually doesn’t care (at first!) if the code is well documented and organized
+
+>**Cristina:** Also, selling this as a key need to the customer
+
+>**Cristina:** Of course, need documentation to operationally support the software you've built
+
+>**Cristina:** How will YOU know how it works in the future, or even worse, some other dev who did not build it?
+
+>**Steve:** This bites me every time I revisit old personal projects
+
+>**Cristina:** Ha. Me too. Biting me already on a personal project of mine.
+
+>**Steve:** I...may have lost the source code for an executable I want to make updates to. That might ok because there weren't any comments in the code to start with.
+
+>**Cristina:** Organizationally, we have bottlenecks because of the lack of documentation
+
+>**Cristina:** only some specific people know how X works
+
+>**Cristina:** so, then, only those people can work on X
+
+>**Steve:** Ahh, yeah. We just dealt with a client who was all .Net except that one critical microservice that someone decided to try out Python on (and document nothing)...and then he left. So they keep hiring people to figure out how it works, saddling them with the microservice for a while, and repeating it when they quit.
+
+>**Cristina:** Whoa lol
 
 ## 13. Stewardship
 
-Per Steve Perkins:
->Consultants are responsible for spending the client's money wisely. There are lots of ways that can manifest, but it comes down to acting in the best interest of the client at all times - even if your employer wants you to do otherwise. A trust relationship is paramount in consulting, especially in a small town like Madison.
+
+>**Bo:** 👍 good one
+
+>**Steve:** Consultants are responsible for spending the client's money wisely. There are lots of ways that can manifest, but it comes down to acting in the best interest of the client at all times - even if your employer wants you to do otherwise. A trust relationship is paramount in consulting, especially in a small town like Madison.
 
 ## 14. Flexibility
 
-While it's important to negotiate with clients on what's right, it's still important to be flexible if the negotiation doesn't work out.
-Don't get too stuck on your opinions because ultimately, the customer being happy is what matters and if we remain stubborn, then customers will just get frustrated and we will NOT get anything done.
+> **Cristina:** While it's important to negotiate with clients on what's right, it's still important to be flexible if the negotiation doesn't work out.
 
-** CHAT IMAGE HERE **
+> **Cristina:** Don't get too stuck on your opinions because ultimately, the customer being happy is what matters and if we remain stubborn, then customers will just get frustrated and we will NOT get anything done.
+
+>**Bo:** def
 
 ## 15. Time Management
 Content here
 
 ## Wait, where are technical skills?
-** CHAT IMAGE HERE**
+>**Cristina:** I mean, I'm not surprised, but none of our list involves technical skills.
 
-![Where are the technical skills?](/images/15-successful-consultant-skills/Where are the Technical Skills.png)
+>**Cristina:** It's of course a given that you need technical skills to be able to consult successfully.
+
+>**Steve:** Technical skills can be acquired through on-the-job training, but interpersonal/business skills are more artsy and nuanced
+
+>**Steve:** I've had employers who didn't care if candidates could code,  they just wanted someone they could train to code
+
+>**Bo:** Right, maybe a discussion for another day — the skills / disciplines that one needs to code etc don’t completely overlap those that are needed to consult
+
+>**Steve:** 
+I think a lot of valuable consulting skills are also valuable manager-ing skills
+
+## Other Resources
+
+https://blog.hubspot.com/agency/15-types-clients-handle-properly
