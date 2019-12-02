@@ -10,11 +10,13 @@ template: post
 
 As a developer consultant, you generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
 
-It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with a couple of other devs and we discussed what we think these key skills are.
+It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with a couple of other local Madison devs and we discussed what we think these key skills are.
 
 Below is a summary of our key points and our chat log behind each one.
 
 ## 1. Learning
+
+Having the **ability to learn *and* how fast you learn** will impact your consulting relationship with your client. There are many things to learn like the client's business, their needs/problems, who knows which, even their codebase and tech stack. It's similar to **adaptability**, and certainly having a **positive attitude** and **I can do it attitude** will help you tackle all of the things that need to be learned and adapted to.
 
 >**Steve:** An employee is expected to have some ramp-up time to absorb the stack, the company, the culture, etc, but a consultant is expected to be productive as quickly as possible. That means the entire engagement depends on the consultant learning as much as possible as fast as possible -- understanding the client's business, their needs, their problems, how to get results from other people in the company, who to talk to for what, etc.
 
@@ -32,6 +34,10 @@ Below is a summary of our key points and our chat log behind each one.
 
 ## 2. Ability to Listen
 
+**Listen** to your client, ask further **questions** and **read between the lines** to determine if what they're asking for really would meet their needs. A lof ot clients come with assumed solutions already in mind and part of the consultant's work is to ensure that the client gets the appropriate solution that fits *their* needs.
+
+But it's tricky. While doing this, you have to be careful on ensuring the **client still feels heard** and does not feel arrogance coming from your end.
+
 >**Bo:** You have to be able to listen very carefully hear to what your client is really asking for versus what he/she may be asking for at face value. "Listening" encompasses asking good questions.
 
 >**Cristina:** Oh, yeah, reading between the lines!
@@ -44,7 +50,13 @@ Below is a summary of our key points and our chat log behind each one.
 
 >**Cristina:** It's a careful line to listen between the lines and making the customer not feel like they're heard and just sensing arrogance from the consultant.
 
+>**Bo:** def
+
 ## 3. Expectation Management
+
+Setting expectations applies not only to customers/clients, but also team members, bosses and executives. It can also apply to your personal life, like with a significant other, a friend, a child, a parent, a relative or an acquaintance.
+
+Ensure *they* know what to expect from you so that you can manage and build their **trust** in the relationship. This means a lot of **proactive** communication, and asking clarifying questions if you are not sure about something.
 
 >**Cristina:** So by Expectation Management, I mean that developers should be able to set expectations with customers and teammates, if applicable.
 This means, letting them know what's coming next, what to expect, what are the good things, what are the bad things.
@@ -65,11 +77,13 @@ This means, letting them know what's coming next, what to expect, what are the g
 
 ## 4. Negotiation
 
->**Cristina:**Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
+As mentioned, clients/customers can have specific solutions already in mind, and sometimes, that means asking for *impossible* things. This <a href="https://www.youtube-nocookie.com/embed/BKorP55Aqvg" target="_blank">short youtube comedy sketch</a> demonstrates how difficult that can be. Being able to counter and negotiate their asks while keeping that **trust** in the relationship will ensure the client gets what they really need.
+
+>**Cristina:** Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
 
 >**Bo:** good one also
 
->**Steve:** This is a good one but also difficult to master. I have not :disappointed: but my go-to tactic is to find a win-win-win by understanding what's driving the client.
+>**Steve:** This is a good one but also difficult to master. I have not 😟 but my go-to tactic is to find a win-win-win by understanding what's driving the client.
 
 >**Cristina:** I don't think anybody would ever master this. It's so hard!
 
@@ -95,7 +109,7 @@ This means, letting them know what's coming next, what to expect, what are the g
 
 >**Cristina:** It's hard for someone who's just starting out. their bargaining power is pretty low
 
->**Cristina:** I think there's a bell curve. Having no experience definitely lessens that power. 3-6 years of experience is where the power maximizes because that's where the highest number of positions are. 7+ reduces in power again because the number of options becomes more limited.
+>**Steve:** I think there's a bell curve. Having no experience definitely lessens that power. 3-6 years of experience is where the power maximizes because that's where the highest number of positions are. 7+ reduces in power again because the number of options becomes more limited.
 
 >**Cristina:** Wait. interesting. Why do you think 7+ reduces the power?
 
@@ -117,7 +131,14 @@ This means, letting them know what's coming next, what to expect, what are the g
 
 >**Cristina:** True enough, good point
 
+
 ## 5. Explain Technical Concepts
+
+When going to the doctor and they bring up a medical term about what you have and does not explain what it is, do you find yourself getting frustrated? 
+
+In our technical software world, a lot of terms are **jargon**. We get so used using them every day that we forget which words are jargon. When working with clients, we need to be **more aware** of the terms we use, watch for confused facial expressions, and be able to explain them in a non-condescending way to ensure and keep that **trust** in the relationship.
+
+Recently, our cat had to have a lot of tests because they felt her kidneys were larger than normal during her last physical exam. Throughout the process, the vet explained *everything* in layman's terms that I could understand and I was *very* appreciative of that. 
 
 >**Cristina:** Having the ability to be able to explain technical concepts to people who don't understand them will set a consultant apart.
 
@@ -125,7 +146,7 @@ This means, letting them know what's coming next, what to expect, what are the g
 Being able to do so will help convince customers of concepts you want them to do.
 🙂
 
->**Cristina:** We see this often as many of our clients have a vague idea for their business but know nothing about tech, electronics, materials, or design. They get frustrated if we can't explain why building their thing has a line item for user account management or whatever.
+>**Steve:** We see this often as many of our clients have a vague idea for their business but know nothing about tech, electronics, materials, or design. They get frustrated if we can't explain why building their thing has a line item for user account management or whatever.
 
 >**Bo:** Yep, doing so in a way that client doesn’t feel stupid . I have a hard time keeping up with concepts and esp their acronyms in parallel techs all the time. And things change so fast..
 
@@ -254,9 +275,6 @@ Being able to do so will help convince customers of concepts you want them to do
 
 >**Bo:** def
 
-## 15. Time Management
-Content here
-
 ## Wait, where are technical skills?
 >**Cristina:** I mean, I'm not surprised, but none of our list involves technical skills.
 
@@ -270,6 +288,8 @@ Content here
 
 >**Steve:** 
 I think a lot of valuable consulting skills are also valuable manager-ing skills
+
+## 15. Time Management
 
 ## Other Resources
 
