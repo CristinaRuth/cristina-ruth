@@ -3,6 +3,8 @@
    */
   export function calculateWordCount (html) {
     //parse html tags
+    if (typeof(document) === "undefined") return;
+    
     var div = document.createElement("div");
     div.innerHTML = html;
     var text = div.textContent || div.innerText || "";

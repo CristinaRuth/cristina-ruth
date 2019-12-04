@@ -1,6 +1,6 @@
 ---
 title: >-
- 15 Skills You Need To Be A Successful Developer Consultant
+ 14 Skills You Need To Be A Successful Developer Consultant
 date: 2019-11-30T08:58:59.597Z
 excerpt: >-
   Consulting as a developer is not easy. I talked to 2 other senior devs and we discussed what skills you need to be a successful developer consultant.
@@ -8,7 +8,7 @@ tags: ["tech", "career", "consulting", "soft-skills"]
 template: post
 ---
 
-As a developer consultant, you generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
+As developer consultants, we generally work with clients, majority of whom are not technical, to help deliver a software solution to their problems.
 
 It's not always easy because technical skills alone would not result in a happy client, and I was curious what key skills you need to have to be a successful one. So I chatted with a couple of other local Madison devs and we discussed what we think these key skills are.
 
@@ -156,6 +156,8 @@ Being able to do so will help convince customers of concepts you want them to do
 
 ## 6. Agnosticism
 
+As consultants, our role is to solve our client's problems in the best way that we can. We should then be careful to pick the technologies for our solution that best fit our clients, and try to avoid using the technologies just because we really like them or would like to play with them.
+
 >**Bo:** It’s easy to get married to a favorite tech or toolchain, but it may not always be the best fit for your client. One size doesn’t always fit all..
 
 >**Cristina:** OOOOH!!
@@ -167,6 +169,8 @@ Being able to do so will help convince customers of concepts you want them to do
 >**Steve:** Nice one! Some clients already have their stack embedded in stone, and being unwilling to conform can lose the business or make the project a lot harder.
 
 ## 7. Organization
+
+Software is **complicated**. There are a lot of tasks, requirement clarifications, bugs, steps to implement, etc. The better your organization skills are, the better you'll be able to keep track of outstanding tasks, which ones need follow up, map out the big picture, and prioritize which tasks are *critical* to be done *now*. Being able to do these would result in efficiency and therefore cost less $$$ as the project progresses.
 
 >**Cristina:** Organization skills can help you keep track of all the things that need to be done  TODAY vs LATER.
 
@@ -181,6 +185,8 @@ Being able to do so will help convince customers of concepts you want them to do
 >**Steve:** Nice. It also contributes to building an organized project - setting appropriate priorities (e.g. critical path items) and focusing on what the client requires sooner rather than later.
 
 ## 8. Realism
+
+We all would like things to go as best they could, but this is not always the case, especially in our software world where there is a lot of ambiguity. So being able to have a realistic lens on can help with expectation management and also help build that trust relationship with your client.
 
 >**Bo:** This maybe overlaps with several of the other ideas, inc. Expectation Management — but this also might be one of the areas I’m personally worst at. For instance, building out realistic timelines — I find I’m almost always way too optimistic, even after doing this kind of thing for a long time…
 
@@ -200,6 +206,8 @@ Being able to do so will help convince customers of concepts you want them to do
 
 ## 9. Empathy
 
+Being able to understand your client and be able to see things from their perspective will help you better solve their problems and also help build trust. Empathy not only plays a role in your client relationship but in all aspects of your career like building trust with coworkers, or building trust/keeping morale with your team of developers.
+
 >**Steve:** Really just a facet of client relations - understanding the client's motivations, situation, desires, limitations, etc from their perspective provides not only an alignment of purpose but also builds trust
 
 >**Cristina:** oh yeah. And in larger projects, if you're a lead of other devs, empathy also plays a role in your team being efficient because your team's morale would be higher.
@@ -212,9 +220,9 @@ Being able to do so will help convince customers of concepts you want them to do
 
 >**Steve:** Feed the Elephant theory extended a level
 
-
-
 ## 10. Business Understanding
+
+We developers can get really technical and love to solve problems with code. But we have to remember that ultimately we are developing solutions for **business reasons**. Along with empathy, the more we understand the business, their priorities, their goals, their needs, the better we are able to solve their problems.
 
 >**Cristina:** We develop software for businesses!
 
@@ -230,11 +238,19 @@ Being able to do so will help convince customers of concepts you want them to do
 
 ## 11. Out-of-the-Box Thinking
 
+Sometimes, we get too stuck in our way of thinking because we're just *too close* to the problem. There is value in *seeking perspective* from outsiders outside of the box, *listen* and *consider* their points of view.
+
 >**Bo:** sometimes the inspiration for an innovative approach to a problem comes from a completely different discipline or field
 
 >**Cristina:** Good one! It's so easy to get into this. This is why I often seek out non-team devs on opinions because it's so easy to get too in the box.
 
 ## 12. Documentation
+
+Documentation is not fun, but it does *really* help because we're building a *product* and documentation is the piece of booklet that we get when we buy something from the store that needs to tell us users how to operate it. 
+
+Similarly, the software we're building **is** a product, and we need to build a manual to tell other users how to **support** it. For software, `other users` = the client/business owner and other developers who have to either add to it, or fix some bugs. 
+
+No documentation also usually means **bottlenecks** because only 1 resource knows how it works, and bottlenecks significantly slows agility.
 
 >**Bo:** a no-brainer, but often a place where freelancer’s esp cut corners — after all, the client usually doesn’t care (at first!) if the code is well documented and organized
 
@@ -262,12 +278,15 @@ Being able to do so will help convince customers of concepts you want them to do
 
 ## 13. Stewardship
 
+As consultants, we need to keep the client's best interest. Steve says it best in the chat log below.
 
 >**Bo:** 👍 good one
 
 >**Steve:** Consultants are responsible for spending the client's money wisely. There are lots of ways that can manifest, but it comes down to acting in the best interest of the client at all times - even if your employer wants you to do otherwise. A trust relationship is paramount in consulting, especially in a small town like Madison.
 
 ## 14. Flexibility
+
+As consultants, we also need to be flexible on what can or cannot be done. We can negotiate as much as we want, but too much negotiation can turn our client relationships sour. We need to choose our battles wisely, and to know which ones to let go.
 
 > **Cristina:** While it's important to negotiate with clients on what's right, it's still important to be flexible if the negotiation doesn't work out.
 
@@ -276,6 +295,11 @@ Being able to do so will help convince customers of concepts you want them to do
 >**Bo:** def
 
 ## Wait, where are technical skills?
+
+As consultants, we definitely need technical skills to be able to build technical solutions for our clients. We all agree they're required.
+
+However, Steve brings up an interesting point on how some employers actually didn't care if the candidates could code, they just wanted someone **they could train to code**.
+
 >**Cristina:** I mean, I'm not surprised, but none of our list involves technical skills.
 
 >**Cristina:** It's of course a given that you need technical skills to be able to consult successfully.
@@ -289,8 +313,6 @@ Being able to do so will help convince customers of concepts you want them to do
 >**Steve:** 
 I think a lot of valuable consulting skills are also valuable manager-ing skills
 
-## 15. Time Management
+## Summary
 
-## Other Resources
-
-https://blog.hubspot.com/agency/15-types-clients-handle-properly
+To be a successful developer consultant requires not only technical skills, but a myriad of interpersonal/business skills, which are harder to master. But as long as we're aware of them and continuously try to improve, then we're already doing better than how we were before.
