@@ -3,12 +3,14 @@ import Tags from './Tags';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import { Link, safePrefix } from '../utils';
+import { calculateEstimatedReadingTime } from '../utils/custom/postUtil';
 
 class PostsBlockArticle extends React.Component {
     render() {
         const post = this.props.post;
         const post_idx = this.props.index;
         const tags = post.frontmatter.tags;
+        const estimatedReadingTime = calculateEstimatedReadingTime(post.html);
         return (
             <article key={post_idx} className="post">
                 <div className="post-inside">
@@ -24,7 +26,7 @@ class PostsBlockArticle extends React.Component {
                     </div>
                     <footer className="post-meta">
                         <time className="published"
-                            dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
+                            dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time> • {estimatedReadingTime} min read
                         <Tags tags={tags} />
                     </footer>
                 </div>
