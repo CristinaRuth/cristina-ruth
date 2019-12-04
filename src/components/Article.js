@@ -1,14 +1,18 @@
 import React from 'react';
+
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import { Link, safePrefix } from '../utils';
 import Tags from './Tags';
+import { calculateEstimatedReadingTime } from '../utils/custom/postUtil';
+
 export class Article extends React.Component {
   render() {
     const post = this.props.post;
     const post_idx = this.props.index;
     const tags = post.frontmatter.tags;
     const isUseH3ForHeader = this.props.isUseH3ForHeader || false;
+    const estimatedReadingTime = calculateEstimatedReadingTime(post.html);
     return (<article key={post_idx} className="post">
       <div className="post-inside">
         {_.get(post, 'frontmatter.thumb_img_path') &&
@@ -27,7 +31,7 @@ export class Article extends React.Component {
           <p>{_.get(post, 'frontmatter.excerpt')}</p>
         </div>
         <footer className="post-meta">
-          <time className="published" dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
+          <time className="published" dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time> • {estimatedReadingTime} min read
           <Tags
             tags={tags}
             filterPosts={this.props.filterPosts}
