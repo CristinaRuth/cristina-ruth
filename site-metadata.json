@@ -4,14 +4,14 @@
   "palette": "blue",
   "header": {
     "title": "Cristina Ruth",
-    "tagline": "Thoughts & Tips on Tech & Life",
+    "tagline": "Tips & Thoughts on Tech & Life",
     "profile_img": "/images/0-3-.jpg",
     "bg": "light",
     "has_nav": true,
     "has_social": true
   },
   "siteUrl": "https://www.cristinaruth.com",	
-  "description": "Tips on Tech & Life by Cristina Ruth",
+  "description": "Tips & Thoughts on Tech & Life by Cristina Ruth",
   "footer": {
     "content": "&copy; All rights reserved.",
     "links": [

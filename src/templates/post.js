@@ -5,7 +5,7 @@ import { Layout } from '../components/index';
 import { htmlToReact, safePrefix, getPages } from '../utils';
 import Tags from '../components/Tags';
 import { Article } from '../components/Article';
-
+import { PostThank } from '../components/PostThank';
 export default class Post extends React.Component {
   constructor(props) {
     super(props);
@@ -108,6 +108,7 @@ export default class Post extends React.Component {
             <Tags tags={tags} />
           </footer>
         </article>
+        <PostThank />
         {posts.length > 0 &&
           <React.Fragment>
             <section id="other-posts">

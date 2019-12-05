@@ -57,12 +57,4 @@ We've used this system since late October and it has worked really well! We've g
 
 ![Yay!](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
 
-Would you like to try the same thing to handle *your* family life craziness? I hope I've inspired you to try and do the same thing for your family.
-
-I can also help you get started faster with my services below.
-
-<a href="https://checkout.square.site/buy/MZYSMUURTBJJQVNRL3OHDPX6" class="button button-begin-checkout">Buy a Personalized Version</a>
-
-<a href="https://checkout.square.site/buy/UXPUWR6RK7VTEVEZNTYKWQFY" class="button button-begin-checkout">Buy a Blank Version</a>
-
-For any questions, please don't hesitate to <a href="/contact">contact me</a>. 🙂
+Would you like to try the same thing to handle *your* family life craziness? I hope I've inspired you to try and do the same thing for your family. 🙂

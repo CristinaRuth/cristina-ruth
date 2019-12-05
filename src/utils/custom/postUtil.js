@@ -17,7 +17,7 @@
    */
   export function calculateEstimatedReadingTime (html) {
     const wordCount = calculateWordCount(html);
-    let result =  Math.round(wordCount / 200);
+    let result =  Math.round(wordCount / 250);
     if (result === 0 ) {
       return 1;
     }
