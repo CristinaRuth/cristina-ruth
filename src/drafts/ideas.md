@@ -133,15 +133,12 @@ You could be:
 ---
 
 # Idea Backlog
-1. How to Add Google Analytics to Stackbit
-1. How to Add Tags to Your StackBit Posts
-1. How to Add a New Component to Stackbit
+1. Technical Debt Management [Change title to be more reader-focused]
 1. Be Teachable And You WILL Be Successful!
 1. What You Gain as a Mentor
-1. My Day as a Senior Dev
+1. My Day as a Senior Dev [Change Title to be more reader-focused]
 1. Breaking Dev Work into Manageable Chunks
 1. 3 Ways You Can Help the Tech Community
-1. CI/CD - Explained
 1. 3 Keys to Building Performant Teams
 1. Git/Github/source control explained
 1. 5 Steps to Get That Hacktoberfest Shirt
