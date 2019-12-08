@@ -144,3 +144,4 @@ Focus on non-technical topics.
 1. Do not burn bridges.
 1. 3 Keys to Building Performant Teams
 1. 5 Steps to Get That Hacktoberfest Shirt
+1. pave your way to better developer estimates
