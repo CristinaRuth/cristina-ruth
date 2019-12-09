@@ -1,6 +1,6 @@
 ---
 title: >-
- 14 Skills You Need To Be A Successful Developer Consultant
+ 14 Soft Skills You Need To Be A Successful Developer Consultant
 date: 2019-12-03T19:18:59.597Z
 excerpt: >-
   Consulting as a developer is not easy. I talked to 2 other senior devs and we discussed what skills you need to be a successful developer consultant.
@@ -315,4 +315,4 @@ I think a lot of valuable consulting skills are also valuable manager-ing skills
 
 ## Summary
 
-To be a successful developer consultant requires not only technical skills, but a myriad of interpersonal/business skills, which are harder to master. But as long as we're aware of them and continuously try to improve, then we're already doing better than how we were before.
+To be a successful developer consultant requires not only technical skills, but a myriad of soft skills (interpesronal/business), which are harder to master. But as long as we're aware of them and continuously try to improve, then we're already doing better than how we were before.
