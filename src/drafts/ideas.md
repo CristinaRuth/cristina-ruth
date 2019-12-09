@@ -132,10 +132,29 @@ You could be:
 ***If being a web developer does not interest you, you could become a mobile developer instead.*
 ---
 
+# A guide to organize your own dev meetup
+1. Does the meetup already exist?
+1. Which meetups already exist that relate to the one you want to create? Who are the organizers?
+1. What is your goal in creating the meetup? Who is your target audience (beginner devs, experience devs)? What are your potential topics?
+1. Determine your event cadence  (monthly, which day, what time). 
+1. Venues & Food (libraries, employers, etc)
+1. Build your contact list of who is interested. (ask on social media,local meetups, etc)
+1. Once your contact list has a decent amount, create your meetup group and schedule your first event. (at least 2 weeks to the future to allow people to plan for your event)
+
+
+---
+
 # Idea Backlog
 
 Focus on non-technical topics.
 
+1. Old Tech to Shiny New Tech: Strategies on Upgrading Your Code Without a Big Bang (talk)
+1. A guide to organize your own dev meetup (draft)
+1. 5 Reasons Why You Would Love Documentation (draft)
+1. Invest in Your Employees' Personal Development (draft)
+1. Daily In-Progress Team Code Reviews. YES, in-progress AND with the team (draft)
+1. On Growth (draft)
+1. 5 Steps to Become a Web Developer (draft)
 1. Be Teachable And You WILL Be Successful!
 1. What You Gain as a Mentor
 1. My Day as a Senior Dev
@@ -145,3 +164,5 @@ Focus on non-technical topics.
 1. 3 Keys to Building Performant Teams
 1. 5 Steps to Get That Hacktoberfest Shirt
 1. pave your way to better developer estimates
+1. Transferable dev skills for career switchers
+1. Build your company's culture
