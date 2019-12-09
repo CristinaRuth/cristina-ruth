@@ -33,3 +33,5 @@ But there are challenges with this.
 * The length of time it takes to get this completely done.
 * The "Big bang" when it's time to go to production. Crossing fingers. "Hope this works."
 * Since it's such a huge change, if there are critical issues and you'd have to undo your change, what then? Hopefully you can undo it within minutes. But realistically, it would probably take hours.
+
+---Slide 8---
