@@ -146,7 +146,7 @@ You could be:
 
 # Idea Backlog
 
-Focus on non-technical topics.
+Focus on technology-agnostic topics.
 
 1. Old Tech to Shiny New Tech: Strategies on Upgrading Your Code Without a Big Bang (talk)
 1. A guide to organize your own dev meetup (draft)
