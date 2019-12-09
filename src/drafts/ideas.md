@@ -166,3 +166,9 @@ Focus on non-technical topics.
 1. pave your way to better developer estimates
 1. Transferable dev skills for career switchers
 1. Build your company's culture
+
+# keywords
+
+developer soft skills
+software engineer soft skills
+
