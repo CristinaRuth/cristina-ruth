@@ -1,18 +1,31 @@
-# Then and Now
+---
+title: 4 Steps To Grow Your People Skills
+date: 2019-12-11T11:01:46.831Z
+excerpt: >-
+  Talking with people is not easy. In this post, I provide a history of how I went from being shy to giving talks at conferences, and how YOU can do it too.
+tags: ["career","soft-skills","people-skills","personal-growth"]
+template: post
+---
 
-## 6 years ago
+Talking with people is not easy. 6 years ago, I was immensely shy and found it hard to talk with people. Today, I give talks at conferences. 
+
+In this post, I share my history, my journey, my learnings, and outlined them to 4 steps where **YOU** can do it too.
+
+## Then and Now
+
+### 6 years ago
 * I would rather code all day than to talk with people.
 * I focused on myself and only worked people if I had to.
 * I pretended I was busy with my phone or something else when I find myself in an elevator with a stranger.
 * I clammed up when speaking in front of a lot of people.
 
-## Today
+### Today
 * I actually **like** talking to people. In fact, I start feeling sad if I spend too many days coding by myself.
-* I focused on others and continually sought out new people even if I don't have to work with them.
+* I focus on others and continually seek out new people even if I don't have to work with them.
 * I say hi and chat about the weather, or what's currently happening, with a stranger in an elevator. I also smile and say hi to people I "meet" in the hallways.
 * I can talk comfortably in front of a lot of people. I still get nervous, but it's way easier now.
 
-# What Happened?
+## What Happened?
 
 The first couple of years, I think it was mainly due to increased job responsibilities -- becoming more of a lead/senior dev. As part of that, I had to interact and talk with people a *lot* more. I had to clarify requirements, ask questions, set expectations, coordinate with testers, etc. 
 
@@ -37,9 +50,11 @@ But despite those, I still kept on trying. And trying. And trying. And telling m
 
 And somehow, suddenly, I realized that I can talk with people better and I can talk in front of people better. It's *easier*! Note the *er*. It's still hard, but it's not as gut-wrenching as I found it before.
 
-# How You Can Do It Too
+## How You Can Do It Too
 
-## 1. Read the Book "How to Win Friends and Influence People"
+*Note: This section does not contain affiliate links.*
+
+### 1. Read the Book "How to Win Friends and Influence People"
 
 [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_2?crid=NPQNKD77KGQY&keywords=how+to+win+friends+and+influence+people&qid=1576022195&sprefix=how+to+win+friend%2Caps%2C215&sr=8-2)
 
@@ -47,7 +62,7 @@ This book helped me focus on others instead of myself, and oddly enough, by focu
 
 If you find yourself struggling to talk with people like I described above, give this book a shot and see what kind of learnings you can take from it. Check your local library if they have a copy. Take notes as you read. Make a cheat sheet for your reference for your daily life.
 
-## 2. Read the Book "The 7 Habits of Highly Effective People"
+### 2. Read the Book "The 7 Habits of Highly Effective People"
 
 [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sxts_sxwds-bia?crid=2FGADSH971NBN&keywords=7+habits+of+highly+effective+people&pd_rd_i=1451639619&pd_rd_r=1cdf1a12-a168-4738-9af7-6bf40a34d593&pd_rd_w=kJbF4&pd_rd_wg=xnM4X&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=R08GTY3FAHEMG7VQQP36&psc=1&qid=1576021033&sprefix=7+habits+o%2Caps%2C212)
 
@@ -60,7 +75,7 @@ This book **enhanced** the learnings I got from `How to Win Friends and Influenc
 
 If you'd like to further improve your relationships, as well as learn how to set your goals and take action, check your local library and see if they have a copy. Take notes. Make a cheat sheet!
 
-## 3. Apply Your Learnings
+### 3. Apply Your Learnings
 
 Keep them small -- **one thing** you can do for that day. And then **make sure** to celebrate that you tried! No matter the result -- whether you succeeded or not. Be kind to yourself, and help yourself through this. Change is hard. But it only will happen through persistence despite hard times. Learn from your mistakes and you **will** eventually succeed!
 
@@ -72,7 +87,7 @@ Some small things I tried that you can try too:
 
 A tip I read somewhere I found really helpful when talking with random strangers is to comment on something you **both** are experiencing OR having experienced. This is why the weather is such a common small talk topic! We all are experiencing the same weather when we're in the same physical space.  A similar conversation starter is asking how their conference experience is so far (if you're attending a conference)
 
-## 4. Go Bigger
+### 4. Go Bigger
 
 When you've done the small things above consistently to the point that you got better, you'll just randomly realize that you are better at interacting with people. It's just a *bit* easier than it was before.
 
@@ -80,7 +95,7 @@ Keep challenging yourself at this point. Keep practicing. Go *bigger*.
 
 Some big things I tried that you can try too:
 * Submitted and presented talks for conferences.
-* At conferences, sat at tables where complete strangers were sitting.
+* At conferences, sat at tables where complete strangers were sitting AND talked with them.
 * Joined in in-progress conversations where people were already talking.
 
 This is definitely scarier. I did my first *big conference* talk in September this year, and I was *nervous*! It's very different being up in front of a bunch of people rather than just talking in-person with 1 or a few people. My instinct was to just quit and stop because it would be easier to do that. 
@@ -93,16 +108,12 @@ And I **celebrated** that I did it. That I tried it.
 
 It is so important to celebrate our small wins, and celebrate the fact that we just *tried* it. **You** can do it too!
 
-# Summary
+## Summary
 
 I'm still not perfect in talking with people and I will **never be** and that is **perfectly okay**.
 
 **You** will never be either and that is also perfectly okay! Just keep learning, trying, practicing and celebrate your small wins. What matters is that you are **better** than how you were before.
 
-# Other Resources
+## Other Resources
 
-**Crucial Conversation Tools for Talking When Stakes are High**
-
-[Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?crid=2APG4R23BEZ6X&keywords=crucial+conversations&qid=1576061485&s=books&sprefix=crucial+con%2Cstripbooks%2C195&sr=1-1)
-
-I found this book helpful on dealing with conflicts with people and being able to navigate those conversations especially with emotions run high. After you've read the other books above and want more, this is another book that can help you hone those people skills.
+* [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?crid=2APG4R23BEZ6X&keywords=crucial+conversations&qid=1576061485&s=books&sprefix=crucial+con%2Cstripbooks%2C195&sr=1-1) - I found this book helpful on dealing with conflicts with people and being able to navigate those conversations especially with emotions run high. After you've read the other books above and want more, this is another book that can help you hone those people skills.
