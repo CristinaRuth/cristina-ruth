@@ -38,14 +38,71 @@ But despite those, I still kept on trying. And trying. And trying. And telling m
 And somehow, suddenly, I realized that I can talk with people better and I can talk in front of people better. It's *easier*! Note the *er*. It's still hard, but it's not as gut-wrenching as I found it before.
 
 # How You Can Do It Too
-1. Read the book [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_2?crid=NPQNKD77KGQY&keywords=how+to+win+friends+and+influence+people&qid=1576022195&sprefix=how+to+win+friend%2Caps%2C215&sr=8-2)
-1. Read the book [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sxts_sxwds-bia?crid=2FGADSH971NBN&keywords=7+habits+of+highly+effective+people&pd_rd_i=1451639619&pd_rd_r=1cdf1a12-a168-4738-9af7-6bf40a34d593&pd_rd_w=kJbF4&pd_rd_wg=xnM4X&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=R08GTY3FAHEMG7VQQP36&psc=1&qid=1576021033&sprefix=7+habits+o%2Caps%2C212)
-1. Became a meetup organizer. It gave me practice speaking in front of people.
-1. Submitted and presented talks for conferences.
-1. Actively engaged in a “hi how are you?” conversations with strangers despite it being sooo nerve wracking!
 
+## 1. Read the Book "How to Win Friends and Influence People"
 
-All of the above were so terrifying but I didn’t let that stop me. I did it anyway and I celebrated the simple fact that I did it. And if it went wrong, I focused on the fact that I did it and what I could do better next time. And then I did it again. And again. And again.
+[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_2?crid=NPQNKD77KGQY&keywords=how+to+win+friends+and+influence+people&qid=1576022195&sprefix=how+to+win+friend%2Caps%2C215&sr=8-2)
 
-Just gotta keep trying and you’ll eventually realize that “oh wow. I’ve gotten better at this.”
+This book helped me focus on others instead of myself, and oddly enough, by focusing on others, I have actually benefitted **more** by forming more genuine connections and had a huge part in earning me a **promotion**.
 
+If you find yourself struggling to talk with people like I described above, give this book a shot and see what kind of learnings you can take from it. Check your local library if they have a copy. Take notes as you read. Make a cheat sheet for your reference for your daily life.
+
+## 2. Read the Book "The 7 Habits of Highly Effective People"
+
+[The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sxts_sxwds-bia?crid=2FGADSH971NBN&keywords=7+habits+of+highly+effective+people&pd_rd_i=1451639619&pd_rd_r=1cdf1a12-a168-4738-9af7-6bf40a34d593&pd_rd_w=kJbF4&pd_rd_wg=xnM4X&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=R08GTY3FAHEMG7VQQP36&psc=1&qid=1576021033&sprefix=7+habits+o%2Caps%2C212)
+
+I honestly thought this was a productivity book. Little did I know that it contained lots and lots of life lessons within. One of the biggest lessons I took from this book was:
+> Seek first to understand, than to be understood.
+
+This is huge when talking with people, especially conflicts, which is inevitable in any relationship, personal or professional.
+
+This book **enhanced** the learnings I got from `How to Win Friends and Influence People`, and taught me more about relationships, both personal and professional, as well as teaching me how to determine what I really want and then take actions on those wants/goals. 
+
+If you'd like to further improve your relationships, as well as learn how to set your goals and take action, check your local library and see if they have a copy. Take notes. Make a cheat sheet!
+
+## 3. Apply Your Learnings
+
+Keep them small -- **one thing** you can do for that day. And then **make sure** to celebrate that you tried! No matter the result -- whether you succeeded or not. Be kind to yourself, and help yourself through this. Change is hard. But it only will happen through persistence despite hard times. Learn from your mistakes and you **will** eventually succeed!
+
+Some small things I tried that you can try too:
+* Say hi to a stranger.
+* Remembering to ask a person who asked how I was - `how are YOU?`
+* Remembering to **listen** to the other person I'm talking to. Instead of thinking and thinking on what *I* am going to say next.
+* Strike up a conversation with a random stranger.
+
+A tip I read somewhere I found really helpful when talking with random strangers is to comment on something you **both** are experiencing OR having experienced. This is why the weather is such a common small talk topic! We all are experiencing the same weather when we're in the same physical space.  A similar conversation starter is asking how their conference experience is so far (if you're attending a conference)
+
+## 4. Go Bigger
+
+When you've done the small things above consistently to the point that you got better, you'll just randomly realize that you are better at interacting with people. It's just a *bit* easier than it was before.
+
+Keep challenging yourself at this point. Keep practicing. Go *bigger*.
+
+Some big things I tried that you can try too:
+* Submitted and presented talks for conferences.
+* At conferences, sat at tables where complete strangers were sitting.
+* Joined in in-progress conversations where people were already talking.
+
+This is definitely scarier. I did my first *big conference* talk in September this year, and I was *nervous*! It's very different being up in front of a bunch of people rather than just talking in-person with 1 or a few people. My instinct was to just quit and stop because it would be easier to do that. 
+
+But if I had done that, I would not have been able to give my talk. I would've not been able to grow.
+
+My talk went fine -- I felt *really* awkward -- but I had chosen a topic I **knew** by heart and so, talking about it, the words just came flowing out of my mouth. It was easy to talk about it because I knew the topic so well.
+
+And I **celebrated** that I did it. That I tried it.
+
+It is so important to celebrate our small wins, and celebrate the fact that we just *tried* it. **You** can do it too!
+
+# Summary
+
+I'm still not perfect in talking with people and I will **never be** and that is **perfectly okay**.
+
+**You** will never be either and that is also perfectly okay! Just keep learning, trying, practicing and celebrate your small wins. What matters is that you are **better** than how you were before.
+
+# Other Resources
+
+**Crucial Conversation Tools for Talking When Stakes are High**
+
+[Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?crid=2APG4R23BEZ6X&keywords=crucial+conversations&qid=1576061485&s=books&sprefix=crucial+con%2Cstripbooks%2C195&sr=1-1)
+
+I found this book helpful on dealing with conflicts with people and being able to navigate those conversations especially with emotions run high. After you've read the other books above and want more, this is another book that can help you hone those people skills.
