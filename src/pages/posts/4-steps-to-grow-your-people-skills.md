@@ -16,7 +16,7 @@ In this post, I share my history, my journey, my learnings, and outlined them to
 ### 6 years ago
 * I would rather code all day than to talk with people.
 * I focused on myself and only worked people if I had to.
-* I pretended I was busy with my phone or something else when I find myself in an elevator with a stranger.
+* I pretended I was busy with my phone or something else when I found myself in an elevator with a stranger.
 * I clammed up when speaking in front of a lot of people.
 
 ### Today
