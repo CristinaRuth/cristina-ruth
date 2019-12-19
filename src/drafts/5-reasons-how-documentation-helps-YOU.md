@@ -1,4 +1,4 @@
-# 5 Reasons Why You Would Love Documentation
+# 5 Reasons How Documentation Helps YOU
 1. Help Yourself in the Future
 1. Help Your Teammates
 1. Help Yourself Stand Out
