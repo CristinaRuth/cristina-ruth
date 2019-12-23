@@ -1,8 +1,15 @@
-# 11 Things to Consider for More Accurate Developer Estimates
+---
+title: 11 Things to Consider for More Accurate Developer Estimates
+date: 2019-12-23T15:10:57.088Z
+excerpt: >-
+  Developing solutions not only includes development time, but analysis, communication, testing and stabilization. The larger the change size, the higher the complexity and the more difficult it is to estimate. Therefore, the more detailed we can be when doing our estimates, the better our estimates will become.
+tags: ["tech", "career", "consulting", "estimates"]
+template: post
+---
 
 If you've been asked to do an estimate before, you'd agree it's easier said than done.
 
-The bigger the scope (how much to be done), the harder it is to estimate because the complexity increases and therefore the ambiguity and unkwnowns increase and the more room there are for bugs, mistakes and miscommunication.
+The bigger the scope (how much to be done), the harder it is to estimate because the complexity increases and therefore, the ambiguity and unkwnowns increase, and the more room there are for bugs, mistakes and miscommunication.
 
 ## Types of Estimates
 
@@ -86,7 +93,7 @@ This thing that we are estimating -- is it a new functionality? Or is it updatin
 
 Knowing this answer will help us gauge our overall testing effort. The more existing functionalities are impacted, the more testing we will have to be doing (i.e. regression testing).
 
-If your impacted functionalities have already existing unit tests, then we'll also need to consider the effort to *update* existing unit tests as needed. Having existing unit tests will definitely help **reduce** the overall testing effort, because these will cover part of your regression testing.
+If your impacted functionalities have already existing unit tests and integration tests, then we'll also need to consider the effort to *update* existing unit tests and integration tests as needed. Having existing unit tests and integration tests will definitely help **reduce** the overall testing effort, because these will cover part of your regression testing.
 
 ## 4 - Communication and Organization Overhead
 
@@ -99,6 +106,8 @@ We'll also need to consider communication time and organization time to sort and
 * How much time would it take to coordinate with the knowledge resources to get the information we need to complete our tasks?
 
 * How much time would it take to coordinate with my team of developers and answer their clarification questions?
+
+* How much time would it take to coordinate with our business partners/clients to clarify requirements and prioritize features/bugs?
 
 Executing through a project requires a lot of communication between me, my team of developers, our business partners/clients, and our stakeholders. Communicating is part of the work if we want to ensure building that **trust** relationship with the people we work with.
 
