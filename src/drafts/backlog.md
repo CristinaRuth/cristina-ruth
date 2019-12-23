@@ -30,6 +30,9 @@ Focus on technology-agnostic topics.
 # Hacktoberfest
 1. 5 Steps to Get That Hacktoberfest Shirt
 
+# Terms Defined
+1. Software Project Terms Defined (scope etc)
+
 # keywords
 
 developer soft skills
