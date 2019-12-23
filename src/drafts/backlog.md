@@ -6,6 +6,7 @@ Focus on technology-agnostic topics.
 
 1. Be Teachable And You WILL Be Successful!
 1. Do not burn bridges.
+1. How resourcefulness helps YOU.
 
 # Give Back
 
