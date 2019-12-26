@@ -1,4 +1,4 @@
-# Low Risk Legacy System Modernization Strategies Using Toggles
+# Legacy System Modernization Strategies
 
 Over the years, old code gets harder to maintain, and we start missing out on new capabilities and features from new technology. But, resources are usually limited, and we don't usually get around to doing these upgrades. How do we convert an app, like WebForms, to an MVC app on a limited budget and shippable increments without major issues?
 
