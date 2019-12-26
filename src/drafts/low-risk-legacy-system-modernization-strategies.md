@@ -1,66 +1,53 @@
-# Legacy System Modernization Strategies
+# Low-Risk Legacy System Modernization Strategies
 
-Over the years, old code gets harder to maintain, and we start missing out on new capabilities and features from new technology. But, resources are usually limited, and we don't usually get around to doing these upgrades. How do we convert an app, like WebForms, to an MVC app on a limited budget and shippable increments without major issues?
+--Cover image in Canva--
 
---Old run down House Pic--
-So we want to modernize a legacy system?
+## Problems of Legacy Systems 
 
-Has old tech, has technical debt, hard to maintain.
+Legacy systems can present a lot of problems in our organizations.
 
--- brand new house --
+* **Difficult to maintain.** They contain a lot of technical debt, and are highly susceptible to bugs when features are updated.
 
-here's our shiny new system we really want to get eto.
+* **Significantly slows speed-to-market.** They require a lot of effort to update because bugs easily pop up when they're updated.
 
-Latest technologies and capabilities!
-Easier to maintain!
-Minimal tech debt!
+* **Outdated capabilities.** They are built on older technologies, and therefore, outdated capabilities. This also impacts our business operations because they can't effectively market/do sales without access to the later technologies.
 
-# How?
+## Legacy System Modernization 
 
-So how do we usually do this?
-Create a new branch.
-Develop.
-Probably for several months.
-Test.
-Release. Finally!
+Modernizing legacy systems will transform them to avoid the problems stated above.
 
-# Challenges
+But it's easier said than done. Modernization efforts take a lot of effort and resources, especially if they are **core** systems that the enterprise relies on.
 
-But there are challenges with this.
+No matter if they are core systems or not, doing them **safely and low-risk** is *very important* to avoid disruptions to our business operations.
 
-* There are, what I call, "Rabbit holes" of forgotten functionalities. "How did this work?" "Is there any documentation on this?"
-* Other functionalities get broken even if you did not touch them.
-* The length of time it takes to get this completely done.
-* The "Big bang" when it's time to go to production. Crossing fingers. "Hope this works."
-* Since it's such a huge change, if there are critical issues and you'd have to undo your change, what then? Hopefully you can undo it within minutes. But realistically, it would probably take hours.
+## Post Overview
+This post will walk you through:
 
-# Agenda
+1. The usual *Big Bang* approach and its challenges.
 
-In this talk, we'll talk through:
-* The 4 main challenges (problems) I've noticed with these types of changes.
-* The 5 strategies I've encountered that helps addresses these challenges.
-* We'll then walk through the 5 steps to apply these strategies.
-* And finally, we'll wrap it up with a recap.
+1. The 4 main challenges of modernizing systems.
 
-1. 4 Main Challenges (PRoblems)
-1. 5 STrategies (Solutions)
-1. 5 Steps (Apply)
-1. Recap
+1. The 5 strategies to address these 4 challenges.
 
-# Hello
+1. The 5 steps to apply the 5 strategies.
 
-Hi! I'm Cristina Ruth and I'm a Senior Business Systems Consultant at CUNA Mutual Group.
+1. A recap of the 4 challenges, 5 strategies and 5 steps.
 
-I am responsible for ensuring our self-service website for our customers stays up and running, keep it maintained and work with our business customers on making updtaes to deliver improved value to our customers.
 
-1 website on the surface, but really comprised of 40 total "apps". Each one with their own CI/CD pipeline, release pipelines, etc.
+## The "Big Bang" Approach and the Problems It Causes
 
-19 Websites
-7 APIs
-8 Batch Jobs
-6 Misc
+The usual *big bang* approach takes the entire system, transforms it, and release it all live in **one** go.
 
-# 4 Main Challenges
+There are **major problems** this approach causes:
+
+* **Long Time to Complete.** Because the *scope* is so large, it takes a very long time to get *everything* completely done.
+
+* **Uncertainty.** Everything goes live in *one* go and we therefore cross our fingers hoping everything goes okay.
+
+* **Roll-Back Challenges** Large changes like this present challenges in *backing out*. If there are critical issues found when going live, it's much harder to back out, and the *time* to back out will likely take a lot longer.
+
+
+## 4 Main Challenges When Modernizing Systems
 When we're making huge changes like these, I've noticed that there are really 4 main challenges that we encounter.
 
 ## 1. Change Size
