@@ -14,7 +14,7 @@ Legacy systems can present a lot of problems in our organizations.
 
 ## Legacy System Modernization 
 
-Modernizing legacy systems will transform them to avoid the problems stated above.
+Modernizing legacy systems will give them the latest technologies and if adequate resources are invested into the system, then the technical debt can be solved as well.
 
 But it's easier said than done. Modernization efforts take a lot of effort and resources, especially if they are **core** systems that the enterprise relies on.
 
