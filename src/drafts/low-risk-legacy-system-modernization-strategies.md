@@ -8,7 +8,7 @@ Legacy systems can present a lot of problems in our organizations.
 
 * **Difficult to maintain.** They contain a lot of technical debt, and are highly susceptible to bugs when features are updated.
 
-* **Significantly slows speed-to-market.** They require a lot of effort to update because bugs easily pop up when they're updated.
+* **Significantly slows speed-to-market.** Due to the amount of technical debt, they can require a lot of effort to update because bugs easily pop up when they're updated or they require a lot of effort to test when updated because of a lack of automated tests.
 
 * **Outdated capabilities.** They are built on older technologies, and therefore, outdated capabilities. This also impacts our business operations because they can't effectively market/do sales without access to the later technologies.
 
