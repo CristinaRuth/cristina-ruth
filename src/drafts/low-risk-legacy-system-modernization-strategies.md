@@ -27,6 +27,8 @@ This post will walk you through:
 
 1. The 4 main challenges of modernizing systems.
 
+1. How these challenges exist for *any* major change, not exclusively on legacy system modernization.
+
 1. The 5 strategies to address these 4 challenges.
 
 1. The 5 steps to apply the 5 strategies.
@@ -44,62 +46,57 @@ There are **major problems** this approach causes:
 
 * **Uncertainty.** Everything goes live in *one* go and we therefore cross our fingers hoping everything goes okay.
 
-* **Roll-Back Challenges** Large changes like this present challenges in *backing out*. If there are critical issues found when going live, it's much harder to back out, and the *time* to back out will likely take a lot longer.
+* **Roll-Back Challenges.** Large changes like this present challenges in *backing out*. If there are critical issues found when going live, it's much harder to back out, and the *time* to back out will likely take a lot longer.
+
+* **High Risk.** Because of the uncertainty and rollback capabilities of such a huge change, this approach is very high risk.
 
 
 ## 4 Main Challenges When Modernizing Systems
-When we're making huge changes like these, I've noticed that there are really 4 main challenges that we encounter.
+Having worked on legacy systems, I've noticed that there are really 4 main challenges in updating them.
 
-## 1. Change Size
+1. **Change Size.** The bigger the change is, the bigger the risk, the bigger the "bang", and  our confidence level of success diminishes. 
 
-Bigger changes = bigger risk / bigger bang
-rollback capability is limited.
-Confidence level of change success diminishes.
+1. **User Impact.** When we make such large changes, we can introduce breaking changes that we don't foresee. These are high impact to our end users and disrupt our business operations.
 
-## 2. User Impact
+1. **Resources.** It is usually difficult to get our business partners to see the value of modernizing legacy systems, so these are usually executed with very limited resources (time, people, money). With limited resources, the length of time is way higher compared to when the effort is supported by funds from our business partners.
 
-Breaking changes = high impact
+1. **Technical Debt.** Because of the existing technical debt, it's hard to update the system without things breaking or without a tremendous amount of effort to test changes.
 
-Ideally, we would want no impact, or very minimal interruptions, if it cannot be avoided.
 
-## 3. Resources
+## Challenges Apply to ANY Major Changes
 
-Trio = Time, PEople, Money
+These challenges not only apply when trying to modernize the legacy systems, but also apply to **any** major changes you make to the systems.
 
-Usually limited. if only you are the only one available to do the upgrade, it will take you months to completely finish the work.
+Some examples are:
 
-Tech upgrades are also uusally difficult to attach to a business value, and therefore, don't usually get the needed funding to get completed.
+* Switching infrastructure (databases, API/service version upgrades).
 
-## 4. Technical Debt
+* Refactoring.
 
-Tightly coupled logic.
-Hard to test code.
-Hard to update -- things break when you do.
+* Major functionality updates (update an existing feature drastically)
 
-# ANY Major Changes
+* Dependency version upgrades (plugin major version upgrades)
 
-These challenges are not presnt only when you're switching technologies.
+* Major new functionality with new infrastructure pieces (APIs, database schema changes, etc)
 
-They apply to ANY major changes you make.
-These problems apply to any major changes you do to your code.
-Switching infrastructure (database switching, API/service version upgrades).
-Code rewrites.
-Major functionality updates.
-Dependency version upgrades.
-Major new functionality with new infrastructure pieces (services, database changes, etc).
 
-# 5 Strategies
+## 5 Strategies
 
-So how can we have an easier time addressing these challenges? What strategies can we use to help us mitigate these risks?
-
-We'll talk through 5 strategies we use today in our team, and we'll go over each one of them.
+Over time, I've identified and used 5 strategies to help mitigate the risks around the mentioned 4 challenges. 
 
 They are:
+
 * Backwards-compatibility
+
 * Toggles
+
 * Small Chunks
+
 * Greenfield
+
 * Revisit Requirements
+
+As we cover each one in detail, we'll fill this table out on how each strategy helps address 1 or more challenges.
 
 | Strategy | Change Size | User Impact | Resources | Tech Debt
 |:---:|:---:|:---:|:---:|:---:
@@ -110,7 +107,17 @@ They are:
 |Revisit Requirements|
 
 
-# STrategy 1. Backwards-Compatibility
+### Strategy 1. Backwards-Compatibility
+
+This is the concept of avoiding breaking changes for our end users, as much as possible.
+
+We want to support both the old way **and** the new way, as much as possible. For some time. 
+
+For example, if 
+
+---
+
+We want to avoid breaking changes for our end users
 
 Support OLD AND New ( for some time)
 
