@@ -5,12 +5,13 @@ import _ from 'lodash';
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks } from './GoogleAnalytics';
+import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks, TrackMoreThan30SecondVisitsAsNoBounce } from './GoogleAnalytics';
 
 export default class Body extends React.Component {
 
   render() {
     const isLive = typeof(window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
+    //const isLive = true;
     return (
       <React.Fragment>
         <Helmet>
@@ -43,6 +44,7 @@ export default class Body extends React.Component {
             </div>
           </div>
         </div>
+        {isLive && TrackMoreThan30SecondVisitsAsNoBounce()}
       </React.Fragment>
     );
   }

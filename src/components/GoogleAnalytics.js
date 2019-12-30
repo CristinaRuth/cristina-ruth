@@ -86,3 +86,20 @@ export function TrackDonateClicks() {
         } catch (err) { }
     }
 }
+
+
+export function TrackMoreThan30SecondVisitsAsNoBounce() {
+    function sendGaEvent() {
+        try {
+            var gtag = window.gtag;
+            gtag('event', 'noBounce', {
+                'event_category': 'engagement',
+                'event_label': 'more than 30 seconds'
+            });
+        } catch (err) { }
+    }
+
+    const noBounceInSeconds = 30;
+    const timeoutInMs = noBounceInSeconds * 1000;
+    setTimeout(sendGaEvent, timeoutInMs);
+}

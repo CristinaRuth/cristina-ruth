@@ -41,7 +41,7 @@ class Tag extends React.Component {
                 }
 
                 {!canFilterPost &&
-                    <a href={`/blog?tag=${tagName}`} className="blog-tag">#{tagName}</a>
+                    <a href={`/blog?tag=${tagName}`}>#{tagName}</a>
                 }
 
                 {this.props.currentIndex < (this.props.totalTags - 1) ? " " : null}
