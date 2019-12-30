@@ -34,6 +34,9 @@ Focus on technology-agnostic topics.
 # Terms Defined
 1. Software Project Terms Defined (scope etc)
 
+# Finances
+1. Financial Lessons from Buying and Owning a House
+
 # keywords
 
 developer soft skills

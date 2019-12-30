@@ -1,118 +1,102 @@
-# Low Risk Legacy System Modernization Strategies Using Toggles
+# Low-Risk Legacy System Modernization Strategies
 
-Over the years, old code gets harder to maintain, and we start missing out on new capabilities and features from new technology. But, resources are usually limited, and we don't usually get around to doing these upgrades. How do we convert an app, like WebForms, to an MVC app on a limited budget and shippable increments without major issues?
+--Cover image in Canva--
 
---Old run down House Pic--
-So we want to modernize a legacy system?
+## Problems of Legacy Systems 
 
-Has old tech, has technical debt, hard to maintain.
+Legacy systems can present a lot of problems in our organizations.
 
--- brand new house --
+* **Difficult to maintain.** They contain a lot of technical debt, and are highly susceptible to bugs when features are updated.
 
-here's our shiny new system we really want to get eto.
+* **Significantly slows speed-to-market.** Due to the amount of technical debt, they can require a lot of effort to update because bugs easily pop up when they're updated or they require a lot of effort to test when updated because of a lack of automated tests.
 
-Latest technologies and capabilities!
-Easier to maintain!
-Minimal tech debt!
+* **Outdated capabilities.** They are built on older technologies, and therefore, outdated capabilities. This also impacts our business operations because they can't effectively market/do sales without access to the later technologies.
 
-# How?
+## Legacy System Modernization 
 
-So how do we usually do this?
-Create a new branch.
-Develop.
-Probably for several months.
-Test.
-Release. Finally!
+Modernizing legacy systems will give them the latest technologies and if adequate resources are invested into the system, then the technical debt can be solved as well.
 
-# Challenges
+But it's easier said than done. Modernization efforts take a lot of effort and resources, especially if they are **core** systems that the enterprise relies on.
 
-But there are challenges with this.
+No matter if they are core systems or not, doing them **safely and low-risk** is *very important* to avoid disruptions to our business operations.
 
-* There are, what I call, "Rabbit holes" of forgotten functionalities. "How did this work?" "Is there any documentation on this?"
-* Other functionalities get broken even if you did not touch them.
-* The length of time it takes to get this completely done.
-* The "Big bang" when it's time to go to production. Crossing fingers. "Hope this works."
-* Since it's such a huge change, if there are critical issues and you'd have to undo your change, what then? Hopefully you can undo it within minutes. But realistically, it would probably take hours.
+## Post Overview
+This post will walk you through:
 
-# Agenda
+1. The usual *Big Bang* approach and its challenges.
 
-In this talk, we'll talk through:
-* The 4 main challenges (problems) I've noticed with these types of changes.
-* The 5 strategies I've encountered that helps addresses these challenges.
-* We'll then walk through the 5 steps to apply these strategies.
-* And finally, we'll wrap it up with a recap.
+1. The 4 main challenges of modernizing systems.
 
-1. 4 Main Challenges (PRoblems)
-1. 5 STrategies (Solutions)
-1. 5 Steps (Apply)
-1. Recap
+1. How these challenges exist for *any* major change, not exclusively on legacy system modernization.
 
-# Hello
+1. The 5 strategies to address these 4 challenges.
 
-Hi! I'm Cristina Ruth and I'm a Senior Business Systems Consultant at CUNA Mutual Group.
+1. The 5 steps to apply the 5 strategies.
 
-I am responsible for ensuring our self-service website for our customers stays up and running, keep it maintained and work with our business customers on making updtaes to deliver improved value to our customers.
+1. A recap of the 4 challenges, 5 strategies and 5 steps.
 
-1 website on the surface, but really comprised of 40 total "apps". Each one with their own CI/CD pipeline, release pipelines, etc.
 
-19 Websites
-7 APIs
-8 Batch Jobs
-6 Misc
+## The "Big Bang" Approach and the Problems It Causes
 
-# 4 Main Challenges
-When we're making huge changes like these, I've noticed that there are really 4 main challenges that we encounter.
+The usual *big bang* approach takes the entire system, transforms it, and release it all live in **one** go.
 
-## 1. Change Size
+There are **major problems** this approach causes:
 
-Bigger changes = bigger risk / bigger bang
-rollback capability is limited.
-Confidence level of change success diminishes.
+* **Long Time to Complete.** Because the *scope* is so large, it takes a very long time to get *everything* completely done.
 
-## 2. User Impact
+* **Uncertainty.** Everything goes live in *one* go and we therefore cross our fingers hoping everything goes okay.
 
-Breaking changes = high impact
+* **Roll-Back Challenges.** Large changes like this present challenges in *backing out*. If there are critical issues found when going live, it's much harder to back out, and the *time* to back out will likely take a lot longer.
 
-Ideally, we would want no impact, or very minimal interruptions, if it cannot be avoided.
+* **High Risk.** Because of the uncertainty and rollback capabilities of such a huge change, this approach is very high risk.
 
-## 3. Resources
 
-Trio = Time, PEople, Money
+## 4 Main Challenges When Modernizing Systems
+Having worked on legacy systems, I've noticed that there are really 4 main challenges in updating them.
 
-Usually limited. if only you are the only one available to do the upgrade, it will take you months to completely finish the work.
+1. **Change Size.** The bigger the change is, the bigger the risk, the bigger the "bang", and  our confidence level of success diminishes. 
 
-Tech upgrades are also uusally difficult to attach to a business value, and therefore, don't usually get the needed funding to get completed.
+1. **User Impact.** When we make such large changes, we can introduce breaking changes that we don't foresee. These are high impact to our end users and disrupt our business operations.
 
-## 4. Technical Debt
+1. **Resources.** It is usually difficult to get our business partners to see the value of modernizing legacy systems, so these are usually executed with very limited resources (time, people, money). With limited resources, the length of time is way higher compared to when the effort is supported by funds from our business partners.
 
-Tightly coupled logic.
-Hard to test code.
-Hard to update -- things break when you do.
+1. **Technical Debt.** Because of the existing technical debt, it's hard to update the system without things breaking or without a tremendous amount of effort to test changes.
 
-# ANY Major Changes
 
-These challenges are not presnt only when you're switching technologies.
+## Challenges Apply to ANY Major Changes
 
-They apply to ANY major changes you make.
-These problems apply to any major changes you do to your code.
-Switching infrastructure (database switching, API/service version upgrades).
-Code rewrites.
-Major functionality updates.
-Dependency version upgrades.
-Major new functionality with new infrastructure pieces (services, database changes, etc).
+These challenges not only apply when trying to modernize the legacy systems, but also apply to **any** major changes you make to the systems.
 
-# 5 Strategies
+Some examples are:
 
-So how can we have an easier time addressing these challenges? What strategies can we use to help us mitigate these risks?
+* Switching infrastructure (databases, API/service version upgrades).
 
-We'll talk through 5 strategies we use today in our team, and we'll go over each one of them.
+* Refactoring.
+
+* Major functionality updates (update an existing feature drastically)
+
+* Dependency version upgrades (plugin major version upgrades)
+
+* Major new functionality with new infrastructure pieces (APIs, database schema changes, etc)
+
+
+## 5 Strategies
+
+Over time, I've identified and used 5 strategies to help mitigate the risks around the mentioned 4 challenges. 
 
 They are:
+
 * Backwards-compatibility
+
 * Toggles
+
 * Small Chunks
+
 * Greenfield
+
 * Revisit Requirements
+
+As we cover each one in detail, we'll fill this table out on how each strategy helps address 1 or more challenges.
 
 | Strategy | Change Size | User Impact | Resources | Tech Debt
 |:---:|:---:|:---:|:---:|:---:
@@ -123,7 +107,17 @@ They are:
 |Revisit Requirements|
 
 
-# STrategy 1. Backwards-Compatibility
+### Strategy 1. Backwards-Compatibility
+
+This is the concept of avoiding breaking changes for our end users, as much as possible.
+
+We want to support both the old way **and** the new way, as much as possible. For some time. 
+
+For example, if 
+
+---
+
+We want to avoid breaking changes for our end users
 
 Support OLD AND New ( for some time)
 
