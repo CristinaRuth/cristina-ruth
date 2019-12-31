@@ -4,13 +4,13 @@ Focus on technology-agnostic topics.
 
 ## Soft Skills
 
-1. Be Teachable And You WILL Be Successful!
-1. Do not burn bridges.
-1. How resourcefulness helps YOU.
+1. Be Teachable And You WILL Be Successful! (do an overview article first)
+1. Do not burn bridges. (do an overview article first)
+1. How resourcefulness helps YOU. (do an overview article first)
 
 # Give Back
 
-1. 3 Ways You Can Help the Tech Community
+1. 3 Ways Developers Can Give Back to the Community (google results - not helpful)
 1. What You Gain as a Mentor
 
 # Career
@@ -20,8 +20,6 @@ Focus on technology-agnostic topics.
 
 # Strategies
 1. Breaking Dev Work into Manageable Chunks
-1. pave your way to better developer estimates
-1. Things to consider for estimates (testing, documentation, unit tests, stabilization, testing and bug support, rpoduction stabilization support)
 
 # Culture
 1. 3 Keys to Building Performant Teams
