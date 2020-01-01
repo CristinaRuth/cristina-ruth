@@ -22,15 +22,9 @@ To give back, she leads the [Madison chapter of Dev Together](https://meetup.com
 
 With a full-time position, leading Dev Together Madison, helping with TEALS and managing a family of 5 (1 kid + 2 pets), Cristina has a lot on her plate. To keep from going crazy, she utilizes productivity/organization tools/processes, which she shares in her blog posts.
 
-## Services and Values
-
-Cristina is a problem solver, at work and in personal life, and is a strong believer in high-quality services. If you purchase a service/digital item from her, she will ensure you get top-notch service. She also does not believe in ads that interfere with your reading or slow how fast pages load for you.
-
 ## Thank Cristina
 
-If you find Cristina's posts helpful, you can thank her by donating below.
-
-<a href="https://checkout.square.site/pay/f63d1174eea745438592791bb547049d" class="button button-donate">Thank Cristina</a>
+<a href="https://www.buymeacoffee.com/cristinaruth" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important"></a>
 
 ## Contact
 
