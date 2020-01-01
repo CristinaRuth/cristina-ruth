@@ -2,6 +2,10 @@
 
 Focus on technology-agnostic topics.
 
+## Consulting
+
+1. how to approach business users to prioritize technical work. 
+
 ## Soft Skills
 
 1. Be Teachable And You WILL Be Successful! (do an overview article first)
