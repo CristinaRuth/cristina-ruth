@@ -94,7 +94,7 @@ By writing supporting documentation on the what you've written, you're **enablin
 
 Ever since I've started writing supporting documentation, I have had less meetings and emails around how things work/how to do things.
 
-If I encounter a meeting that isn't captured in the documentation, I create the documentation before the meeting if I have time, send it to the meeting requestor, and ask them to meet with me if the documentation is not suffice. If I don't have enough time before the meeting, I write the documentation afterwards because I **know** it will save me meeting time in the future.
+If I encounter a meeting invite around a topic that isn't captured in the documentation, I create the documentation before the meeting if I have time, send it to the meeting requestor, and ask them to meet with me if the documentation is not suffice. If I don't have enough time before the meeting, I write the documentation afterwards because I **know** it will save me meeting time in the future.
 
 I start a FAQ documentation on how to do specific tasks and around questions that have the same answers. I then point people to these when answering emails. Now they know in the future where to go to get their answers. If they do forget, it takes me much less time to give them a link to the FAQ documentation.
 
