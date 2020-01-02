@@ -1,4 +1,11 @@
-# 5 Ways Writing Documentation Helps YOU
+---
+title: 5 Ways Writing Documentation Helps YOU
+date: 2020-01-02T13:25:46.831Z
+excerpt: >-
+  Writing documentation helps YOU enhance your writing skills while enabling yourself and your teammates to be more productive. It also saves you time from meetings and emails in the future. By enabling others and having good written communication skills, you highly increase your chances of getting promoted.
+tags: ["career","tech","documentation","communication"]
+template: post
+---
 
 When I first started my professional dev career, I **hated** writing documentation. I didn't think it was as fun as coding and so, I never took the time to write them.
 
@@ -26,6 +33,8 @@ Documentation can be written for many things like:
 
 * Explaining the high-level logic flow of a specific feature. (i.e. diagram flowchart)
 
+And more.
+
 As developers, we read documentation when:
 
 * Trying to install a "plugin" into our project. We then read through their "get started" documentation.
@@ -36,12 +45,13 @@ As developers, we read documentation when:
 
 * When we're setting up our machines to have a local working environment for an open source project, we read through their "Setup.md" documentation.
 
+And more.
 
 ## How Documentation Helps YOU
 
 In this article, we'll walk through 5 ways writing documentation helps **you**:
 
-1. Improve Your Writing Skills
+1. Improve your writing skills.
 
 1. Help yourself in the future.
 
@@ -53,7 +63,7 @@ In this article, we'll walk through 5 ways writing documentation helps **you**:
 
 ## 1. Improve Your Writing Skills
 
-Writing skills are applicable to **all** aspects of your life. You need writing skills to be able to efficiently communicate in writing the message you want others to get. This applies in everything -- from your personal life to school to your career, *any* career.
+Writing skills are applicable to **all** aspects of your life. You need writing skills to be able to efficiently communicate  the message you want to deliver. This applies in everything -- from your personal life to school to your career, *any* career.
 
 The more documentation you write, the more you hone and improve your writing skills.
 
@@ -98,7 +108,7 @@ By writing supporting documentation, you set yourself apart and **enable** other
 
 ## Documentation Caveat
 
-As with all things related to software development, documentation takes time and effort. Therefore, it requires some efficient time management. 
+As with all things related to software development, documentation takes time and effort. Therefore, it requires some time management. 
 
 There would be situations where there would be no time to write documentation due to critical project timelines.
 
@@ -109,4 +119,3 @@ We, therefore, need to be cognizant of **when** it's appropriate to **invest** i
 Writing documentation helps **you** enhance your writing skills while enabling yourself and your teammates to be more productive. It also saves you time from meetings and emails in the future. By enabling others and having good written communication skills, you **highly increase** your chances of getting **promoted**.
 
 But we also need to realize that it takes effort and time, and we just have to also be aware when it makes sense to write it, and when it doesn't.
-
