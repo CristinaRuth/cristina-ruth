@@ -9,8 +9,6 @@ template: contact
 
 Send me a message if you:
 
-* Have any questions about buying something from me.
-
 * Have a question you would like me to answer in a future blog post.
 
 * Have comments.
