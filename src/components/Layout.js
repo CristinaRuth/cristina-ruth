@@ -5,7 +5,7 @@ import _ from 'lodash';
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks, TrackMoreThan30SecondVisitsAsNoBounce } from './GoogleAnalytics';
+import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks, TrackNoBounceAndPageSessionIntervals } from './GoogleAnalytics';
 
 export default class Body extends React.Component {
 
@@ -44,7 +44,7 @@ export default class Body extends React.Component {
             </div>
           </div>
         </div>
-        {isLive && TrackMoreThan30SecondVisitsAsNoBounce()}
+        {isLive && TrackNoBounceAndPageSessionIntervals()}
       </React.Fragment>
     );
   }

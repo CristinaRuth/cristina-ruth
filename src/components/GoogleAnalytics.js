@@ -88,15 +88,42 @@ export function TrackDonateClicks() {
 }
 
 
-export function TrackMoreThan30SecondVisitsAsNoBounce() {
+export function TrackNoBounceAndPageSessionIntervals() {
     function sendGaEvent() {
         try {
+            //only send if the document is not hidden
+            if (document.hidden) return; 
+
             var gtag = window.gtag;
             gtag('event', 'noBounce', {
                 'event_category': 'engagement',
                 'event_label': 'more than 30 seconds'
             });
+
+            //after initial no-bounce event, start sending 30 second interval events.
+            const pageSessionIntervalInSeconds = 30;
+            const timeoutInMs = pageSessionIntervalInSeconds * 1000;
+            setTimeout(sendPageSessionThirtySecondInterval, timeoutInMs);
         } catch (err) { }
+
+    }
+
+    function sendPageSessionThirtySecondInterval() {
+        try {
+            //only send if the document is not hidden
+            if (document.hidden) return; 
+
+            var gtag = window.gtag;
+            gtag('event', 'pageSessionInterval', {
+                'event_category': 'engagement',
+                'event_label': '30 seconds'
+            });
+
+            const pageSessionIntervalInSeconds = 30;
+            const timeoutInMs = pageSessionIntervalInSeconds * 1000;
+            setTimeout(sendPageSessionThirtySecondInterval, timeoutInMs);
+        } catch (err) { }
+
     }
 
     const noBounceInSeconds = 30;
