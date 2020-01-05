@@ -1,7 +1,3 @@
-//import { TrackNoBounceAndPageSessionIntervals, TrackBuyClicks, TrackDonateClicks, TrackExternalLinkClicks } from "./src/components/GoogleAnalytics";
-//import {TrackNoBounceAndPageSessionIntervals, TrackExternalLinkClicks} from './src/components/GoogleAnalytics';
-//const trackExternalLinkClicks = require('./src/components/GoogleAnalytics').TrackExternalLinkClicks;
-
 /**
  * Implement Gatsby's Browser APIs in this file.
  *
