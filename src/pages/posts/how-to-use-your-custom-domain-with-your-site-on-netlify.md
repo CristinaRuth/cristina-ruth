@@ -8,7 +8,7 @@ tags: ["tech","tutorial","beginner","netlify"]
 template: post
 ---
 # Purchase Your Domain
-If you don't already own your domain, purchase one. Personally, I prefer https://domains.google.com.
+If you don't already own your domain, purchase one. Personally, I prefer <a href="https://domains.google.com" class="external-link" target="_blank" rel="noopener noreferrer">Google Domains</a>.
 
 # Manage DNS CNAME Record
 1. Within Netlify, go to the site you want to add a custom domain to.

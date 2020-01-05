@@ -56,7 +56,7 @@ And somehow, suddenly, I realized that I can talk with people better and I can t
 
 ### 1. Read the Book "How to Win Friends and Influence People"
 
-[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_2?crid=NPQNKD77KGQY&keywords=how+to+win+friends+and+influence+people&qid=1576022195&sprefix=how+to+win+friend%2Caps%2C215&sr=8-2)
+<a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_3?crid=3FNDAJEFL6755&keywords=how+to+win+friends+and+influence+people&qid=1578239535&sprefix=how+to+win+frien%2Caps%2C197&sr=8-3" target="_blank" rel="noopener noreferrer" class="external-link">How to Win Friends and Influence People</a> by Dale Carnegie
 
 This book helped me focus on others instead of myself, and oddly enough, by focusing on others, I have actually benefitted **more** by forming more genuine connections and had a huge part in earning me a **promotion**.
 
@@ -64,7 +64,7 @@ If you find yourself struggling to talk with people like I described above, give
 
 ### 2. Read the Book "The 7 Habits of Highly Effective People"
 
-[The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sxts_sxwds-bia?crid=2FGADSH971NBN&keywords=7+habits+of+highly+effective+people&pd_rd_i=1451639619&pd_rd_r=1cdf1a12-a168-4738-9af7-6bf40a34d593&pd_rd_w=kJbF4&pd_rd_wg=xnM4X&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=R08GTY3FAHEMG7VQQP36&psc=1&qid=1576021033&sprefix=7+habits+o%2Caps%2C212)
+<a href="https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sxts_sxwds-bia?crid=2FGADSH971NBN&keywords=7+habits+of+highly+effective+people&pd_rd_i=1451639619&pd_rd_r=1cdf1a12-a168-4738-9af7-6bf40a34d593&pd_rd_w=kJbF4&pd_rd_wg=xnM4X&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=R08GTY3FAHEMG7VQQP36&psc=1&qid=1576021033&sprefix=7+habits+o%2Caps%2C212" target="_blank" rel="noopener noreferrer" class="external-link">The 7 Habits of Highly Effective People</a> by Stephen R. Covey
 
 I honestly thought this was a productivity book. Little did I know that it contained lots and lots of life lessons within. One of the biggest lessons I took from this book was:
 > Seek first to understand, than to be understood.
@@ -116,4 +116,4 @@ I'm still not perfect in talking with people and I will **never be** and that is
 
 ## Other Resources
 
-* [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?crid=2APG4R23BEZ6X&keywords=crucial+conversations&qid=1576061485&s=books&sprefix=crucial+con%2Cstripbooks%2C195&sr=1-1) - I found this book helpful on dealing with conflicts with people and being able to navigate those conversations especially with emotions run high. After you've read the other books above and want more, this is another book that can help you hone those people skills.
+* <a href="https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_2?keywords=crucial+conversations&qid=1578240111&s=books&sr=1-2" target="_blank" rel="noopener noreferrer" class="external-link">Crucial Conversations Tools for Talking When Stakes Are High</a> by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler - I found this book helpful on dealing with conflicts with people and being able to navigate those conversations especially with emotions run high. After you've read the other books above and want more, this is another book that can help you hone those people skills.

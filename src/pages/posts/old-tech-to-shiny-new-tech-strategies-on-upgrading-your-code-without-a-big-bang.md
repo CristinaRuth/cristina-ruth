@@ -12,7 +12,6 @@ template: post
 ---
 Over the years, old code gets harder to maintain, and we start missing out on new capabilities and features from new technology. But, resources are usually limited, and we don't usually get around to doing these upgrades. How do we convert an app, like WebForms, to an MVC app on a limited budget and shippable increments without major issues?
 
+In my <a href="https://thatconference.com" target="_blank" rel="noopener noreferrer" class="external-link">THATConference</a> session held back in August 2019, I talked through some strategies on how to accomplish this and release something every sprint, and slowly – but surely – get our apps fully converted to that new tech.
 
-In my [THATConference](https://thatconference.com) session held back in August 2019, I talked through some strategies on how to accomplish this and release something every sprint, and slowly – but surely – get our apps fully converted to that new tech.
-
-See the [slides](https://www.slideshare.net/CristinaRuth/old-tech-to-shiny-new-tech-strategies-on-upgrading-your-code-without-a-big-bang-162736734).
+See the <a href="https://www.slideshare.net/CristinaRuth/old-tech-to-shiny-new-tech-strategies-on-upgrading-your-code-without-a-big-bang-162736734" target="_blank" rel="noopener noreferrer" class="external-link">slides</a>.

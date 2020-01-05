@@ -5,13 +5,11 @@ import _ from 'lodash';
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import { GoogleAnalytics, TrackBuyClicks, TrackDonateClicks, TrackNoBounceAndPageSessionIntervals } from './GoogleAnalytics';
+import { GoogleAnalytics, IsGaEnabled } from './GoogleAnalytics';
 
 export default class Body extends React.Component {
 
   render() {
-    const isLive = typeof(window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
-    //const isLive = true;
     return (
       <React.Fragment>
         <Helmet>
@@ -27,11 +25,9 @@ export default class Body extends React.Component {
           }
           {
             //Global site tag (gtag.js) - Google Analytics
-            isLive &&
+            IsGaEnabled() &&
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153295015-1" />}
-          {isLive && GoogleAnalytics()}
-          {isLive && TrackBuyClicks()}
-          {isLive && TrackDonateClicks()}
+          {GoogleAnalytics()}
         </Helmet>
         <div id="page" className={'site style-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
           <Header {...this.props} />
@@ -44,7 +40,6 @@ export default class Body extends React.Component {
             </div>
           </div>
         </div>
-        {isLive && TrackNoBounceAndPageSessionIntervals()}
       </React.Fragment>
     );
   }
