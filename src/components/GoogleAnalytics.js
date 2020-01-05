@@ -2,8 +2,8 @@
  * Detects if the GA should be enabled or not.
  */
 export function IsGaEnabled() {
-    //const isLive = typeof (window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
-    const isLive = true;
+    const isLive = typeof (window) !== "undefined" && window.location.host.indexOf("localhost") === -1;
+    //const isLive = true;
     return isLive;
 }
 
