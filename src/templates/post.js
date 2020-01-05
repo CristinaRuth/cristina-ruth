@@ -6,6 +6,9 @@ import { htmlToReact, safePrefix, getPages } from '../utils';
 import Tags from '../components/Tags';
 import { Article } from '../components/Article';
 import { PostThank } from '../components/PostThank';
+import { hyvorTalkWebsiteId } from '../utils/custom/hyvorTalkData';
+import HyvorTalk from 'hyvor-talk-react';
+
 export default class Post extends React.Component {
   constructor(props) {
     super(props);
@@ -83,6 +86,12 @@ export default class Post extends React.Component {
   render() {
     let tags = this.tags;
     let posts = this.posts;
+    const postId = _.get(this.props, 'pageContext.frontmatter.id');
+    // const title = _.get(this.props, 'pageContext.frontmatter.title');
+    //   console.log("<post");
+    //  console.log(postId);
+    // console.log(title);
+    //   console.log("</post");
     return (
       <Layout {...this.props}>
         <article className="post post-full">
@@ -109,6 +118,9 @@ export default class Post extends React.Component {
           </footer>
         </article>
         <PostThank />
+        {
+          <HyvorTalk.Embed websiteId={hyvorTalkWebsiteId} id={postId} loadMode="scroll" />
+        }
         {posts.length > 0 &&
           <React.Fragment>
             <section id="other-posts">

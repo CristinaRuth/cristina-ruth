@@ -5,6 +5,7 @@ excerpt: >-
   Family life gets so busy. In this post, I muse about the problems managing it
   all, and utilizing the bullet journal concept to try and manage the craziness.
 tags: ["productivity", "family-life", "organization", "bullet-journal"]
+id: 6
 template: post
 ---
 Family life. Craziness! All. The. Time.

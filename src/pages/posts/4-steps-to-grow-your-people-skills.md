@@ -4,6 +4,7 @@ date: 2019-12-11T11:01:46.831Z
 excerpt: >-
   Talking with people is not easy. In this post, I provide a history of how I went from being shy to giving talks at conferences, and how YOU can do it too.
 tags: ["career","soft-skills","people-skills","personal-growth"]
+id: 9
 template: post
 ---
 

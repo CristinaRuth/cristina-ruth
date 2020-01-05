@@ -3,6 +3,7 @@ title: The Password Struggle
 date: 2019-11-21T22:17:10.545Z
 excerpt: "Do you know of any password alternatives? Someone save us, please! \U0001F62D"
 tags: ["tech","discuss"]
+id: 3
 template: post
 ---
 Today's digital world has accounts everywhere. That means logins and passwords.

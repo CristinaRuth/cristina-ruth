@@ -4,6 +4,7 @@ date: 2020-01-02T13:25:46.831Z
 excerpt: >-
   Writing documentation helps YOU enhance your writing skills while enabling yourself and your teammates to be more productive. It also saves you time from meetings and emails in the future. By enabling others and having good written communication skills, you highly increase your chances of getting promoted.
 tags: ["career","tech","documentation","communication"]
+id: 11
 template: post
 ---
 

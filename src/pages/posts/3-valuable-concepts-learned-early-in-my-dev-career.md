@@ -5,6 +5,7 @@ excerpt: >-
   If you're starting out, learn these 3 things to give you a jump start in your
   dev career.
 tags: ["tech", "career"]
+id: 1
 template: post
 ---
 ### 1 - Source Control

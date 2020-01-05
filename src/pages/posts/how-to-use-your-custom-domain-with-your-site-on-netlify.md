@@ -5,6 +5,7 @@ excerpt: >-
   Follow through this tutorial to use your custom domain with your site hosted
   on Netlify.
 tags: ["tech","tutorial","beginner","netlify"]
+id: 5
 template: post
 ---
 # Purchase Your Domain
