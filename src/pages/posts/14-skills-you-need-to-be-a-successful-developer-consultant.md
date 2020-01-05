@@ -77,7 +77,7 @@ This means, letting them know what's coming next, what to expect, what are the g
 
 ## 4. Negotiation
 
-As mentioned, clients/customers can have specific solutions already in mind, and sometimes, that means asking for *impossible* things. This <a href="https://www.youtube-nocookie.com/embed/BKorP55Aqvg" target="_blank">short youtube comedy sketch</a> demonstrates how difficult that can be. Being able to counter and negotiate their asks while keeping that **trust** in the relationship will ensure the client gets what they really need.
+As mentioned, clients/customers can have specific solutions already in mind, and sometimes, that means asking for *impossible* things. This <a href="https://www.youtube-nocookie.com/embed/BKorP55Aqvg" target="_blank" class="external-link" rel="noopener noreferrer">short youtube comedy sketch</a> demonstrates how difficult that can be. Being able to counter and negotiate their asks while keeping that **trust** in the relationship will ensure the client gets what they really need.
 
 >**Cristina:** Customers can tend to ask for impossible things. Having the ability to counter their asks and explain things in a way that they can see the benefit to them, can mean $$$ saved for the customers and more efficient solutions.
 

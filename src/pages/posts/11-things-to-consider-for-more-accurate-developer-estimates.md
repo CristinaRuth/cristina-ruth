@@ -9,7 +9,7 @@ template: post
 
 If you've been asked to do an estimate before, you'd agree it's easier said than done.
 
-The bigger the scope (how much to be done), the harder it is to estimate because the complexity increases and therefore, the ambiguity and unkwnowns increase, and the more room there are for bugs, mistakes and miscommunication.
+The bigger the scope (how much to be done), the harder it is to estimate because the complexity increases and therefore, the ambiguity and unknowns increase, and the more room there are for bugs, mistakes and miscommunication.
 
 ## Types of Estimates
 
@@ -69,7 +69,7 @@ Since this is a high-level design, we can only use what we **know** of the syste
 
 ## 2 - Familiarity with all the Pieces
 
-With all the pieces we were able to identify, what is our familiarty with all the pieces?
+With all the pieces we were able to identify, what is our familiarity with all the pieces?
 
 I usually work with a team of developers, so for a safer estimate, I usually **assume** that majority of them, including myself, will not be familiar with everything. 
 

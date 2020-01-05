@@ -41,7 +41,7 @@ As developers, we read documentation when:
 
 * Trying to troubleshoot a bug, and we find our way into a "plugin". We then read through their "troubleshooting" documentation.
 
-* When we're looking into contributing to an open soruce project, we read through their "Contributing.md" documentation.
+* When we're looking into contributing to an open source project, we read through their "Contributing.md" documentation.
 
 * When we're setting up our machines to have a local working environment for an open source project, we read through their "Setup.md" documentation.
 
