@@ -53,10 +53,9 @@
     max-width: none;
   }
 
+  /* 1.5.20 - removed .block-title and .post-feed + .block-cta */
   .hero,
-  .block-title,
   .block-content,
-  .post-feed + .block-cta,
   .post-full .post-header,
   .post-full .post-subtitle,
   .post-full .post-content,
