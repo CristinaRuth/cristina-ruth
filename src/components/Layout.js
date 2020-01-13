@@ -19,6 +19,22 @@ export default class Body extends React.Component {
           <meta name="google" content="notranslate" />
           <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet" />
           <link rel="stylesheet" href={safePrefix('assets/css/main.css')} />
+          <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+  {
+  `
+	#mc_embed_signup{{background:"#fff", clear:"left", font:"14px Helvetica,Arial,sans-serif", width: "100%"}}
+  {
+  /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  }
+	#mc-embedded-subscribe-form input[type=checkbox]{{display: "inline", width: "auto", marginRight: "10px"}}
+	#mergeRow-gdpr {{marginTop: "20px"}}
+	#mergeRow-gdpr fieldset label {{fontWeight: "normal"}}
+  #mc-embedded-subscribe-form .mc_fieldset{{border:"none", minHeight: "0px", paddingBottom: 0}}
+  `
+  }
+</style>
           {(_.get(this.props, 'pageContext.frontmatter.template') === 'post') &&
             _.get(this.props, 'pageContext.frontmatter.canonical_url') &&
             <link rel="canonical" href={_.get(this.props, 'pageContext.frontmatter.canonical_url')} />
