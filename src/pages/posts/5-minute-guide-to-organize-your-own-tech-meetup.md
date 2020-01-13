@@ -77,13 +77,13 @@ Now that you know your desired event cadence, it's time to brainstorm some event
 
 Some common formats are:
 
-* Talks. A speaker comes and talks about a particular topic, and then the audience can ask questions afterwards.
+* **Talks**. A speaker comes and talks about a particular topic, and then the audience can ask questions afterwards.
 
-* Lightning Talks. Multiple speakers come and speak 5-10 minutes around a common topic.
+* **Lightning Talks**. Multiple speakers come and speak 5-10 minutes around a common topic.
 
-* Workshops. Hands-on learnings.
+* **Workshops**. Hands-on learnings.
 
-* Social. People gather around food and drinks and hang out.
+* **Social**. People gather around food and drinks and hang out.
 
 Having a good mix would ensure your meetup doesn't stay too static and can keep up the interest of your members.
 
