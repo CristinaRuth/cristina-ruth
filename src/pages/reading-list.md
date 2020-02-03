@@ -64,3 +64,6 @@ I've found this really helpful in setting goals and **how** to achieve them, and
 
 # To Read Backlog
 * The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle (added 12/11/19)
+* Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek (added 2/3/2020)
+* Good to Great: Why Some Companies Make the Leap and Others Don't by Jim Collins  (added 2/3/2020)
+
