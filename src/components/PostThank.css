@@ -1,3 +1,8 @@
 #thank-cristina {
     margin-bottom: 3.33333em;
 }
+
+#thank-cristina > div > a > img {
+    height: 60px !important;
+    width: 217px !important;
+}
