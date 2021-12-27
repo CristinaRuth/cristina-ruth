@@ -6,6 +6,7 @@ import { htmlToReact, safePrefix, getPages } from '../utils';
 import Tags from '../components/Tags';
 import { Article } from '../components/Article';
 import { PostThank } from '../components/PostThank';
+import { PostAbout } from '../components/PostAbout';
 import { hyvorTalkWebsiteId } from '../utils/custom/hyvorTalkData';
 import HyvorTalk from 'hyvor-talk-react';
 
@@ -117,6 +118,7 @@ export default class Post extends React.Component {
             <Tags tags={tags} />
           </footer>
         </article>
+        <PostAbout />
         <PostThank />
         {
           <HyvorTalk.Embed websiteId={hyvorTalkWebsiteId} id={postId} loadMode="scroll" />
