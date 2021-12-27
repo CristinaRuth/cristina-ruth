@@ -22,3 +22,41 @@
         padding-left: 1em;
     }
 }
+
+#about-cristina {
+    .social {
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            margin-top: 1em;
+
+        a {
+            -ms-flex-align: center;
+            -webkit-align-items: center;
+            align-items: center;
+            border: 1px solid _palette(border);
+            border-radius: 50%;
+            color: inherit;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            height: 30px;
+            -ms-flex-pack: center;
+            justify-content: center;
+            margin: 0 10px 0.5em 0;
+            -webkit-transition: .3s ease;
+            transition: .3s ease;
+            width: 30px;
+        
+            &:hover {
+            background: _palette(accent);
+            border-color: _palette(accent);
+            box-shadow: 0 0 1px 5px rgba(_palette(accent),.2);
+            color: #fff;
+            }
+        }
+    }
+}

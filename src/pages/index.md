@@ -6,7 +6,7 @@ sections:
         url: /about
     component: HeroBlock
     content: >-
-      Here, you'll find my thoughts & tips about tech & life -- from career, productivity, family life, personal finance to all other random things about life.
+      Here, you'll find my thoughts on Software Engineering leadership. Older posts contain various themes from career, productivity, family life, personal finance to all other random things about life.
     title: Welcome!
     type: heroblock
   - actions:

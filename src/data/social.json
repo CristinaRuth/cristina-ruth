@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/cristina__ruth"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
@@ -17,12 +11,6 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/cristinaruth/"
-    },
-    {
-      "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/cristinaruth"
     }
   ]
 }
