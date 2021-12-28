@@ -6,6 +6,7 @@ excerpt: >-
   dev career.
 tags: ["tech", "career"]
 id: 1
+display_weight: 2
 template: post
 ---
 ### 1 - Source Control

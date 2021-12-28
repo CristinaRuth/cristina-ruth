@@ -6,6 +6,7 @@ excerpt: >-
   Consulting as a developer is not easy. I talked to 2 other senior devs and we discussed what skills you need to be a successful developer consultant.
 tags: ["tech", "career", "consulting", "soft-skills"]
 id: 8
+display_weight: 4
 template: post
 ---
 

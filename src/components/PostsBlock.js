@@ -5,7 +5,7 @@ import PostsBlockArticle from './PostsBlockArticle';
 
 export default class PostsBlock extends React.Component {
   render() {
-    let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+    let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.display_weight', 'asc');
     let recent_posts = display_posts.slice(0, _.get(this.props, 'section.num_posts_displayed'));
     return (
       <section id={_.get(this.props, 'section.section_id')} className="block">

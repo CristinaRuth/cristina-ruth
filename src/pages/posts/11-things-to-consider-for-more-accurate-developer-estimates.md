@@ -5,6 +5,7 @@ excerpt: >-
   Developing solutions not only includes development time, but analysis, communication, testing and stabilization. The larger the change size, the higher the complexity and the more difficult it is to estimate. Therefore, the more detailed we can be when doing our estimates, the better our estimates will become.
 tags: ["tech", "career", "consulting", "estimates"]
 id: 10
+display_weight: 5
 template: post
 ---
 

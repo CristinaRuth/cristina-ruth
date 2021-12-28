@@ -14,8 +14,8 @@ sections:
         url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
-    section_id: recent-posts
-    title: Recent Posts
+    section_id: featured-posts
+    title: Featured Posts
     type: postsblock
 menus:
   main:
