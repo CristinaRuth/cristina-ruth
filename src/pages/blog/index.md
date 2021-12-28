@@ -4,7 +4,7 @@ menus:
   main:
     identifier: ''
     title: Blog
-    weight: 2
+    weight: 4
 template: blog
 ---
 
